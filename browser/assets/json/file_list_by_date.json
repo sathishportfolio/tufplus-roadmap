@@ -1,0 +1,1957 @@
+﻿{
+    "10/Oct/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P2_PalindromeCheck\\Revision1\\A3_Optimal_PalindromeCheck.java",
+                        "all_syllabus\\Level2\\C6_Recursion\\P2_CheckIfThereExistsASubsequenceWithSumK\\Revision1\\A1_Brute_CheckIfThereExistsASubsequenceWithSumK.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P1_AddOneToANumberRepresentedByLl\\Revision1\\A3_Optimal_AddOneToANumberRepresentedByLl.java"
+                    ],
+    "09/Oct/2024":  [
+                        "all_syllabus\\Level2\\C3_Arrays\\P5_UnionOfTwoSortedArrays\\Revision1\\A3_Optimal_UnionOfTwoSortedArrays.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P1_MajorityElementI\\Revision1\\A2_Better_MajorityElementI.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P4_FindPeakElement\\Revision1\\A3_Optimal_FindPeakElement.java"
+                    ],
+    "08/Oct/2024":  [
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P5_BestTimeToBuyAndSellStockWithCooldownAndTransactionFees\\Revision1\\A3_Optimal_BestTimeToBuyAndSellStockWithCooldownAndTransactionFees.java"
+                    ],
+    "07/Oct/2024":  [
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P8_LcaInBt\\Revision1\\A3_Optimal_LcaInBt.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P9_SortAnArrayOf0S1SAnd2S\\Revision1\\A2_Better_SortAnArrayOf0S1SAnd2S.java"
+                    ],
+    "06/Oct/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P5_JavaOopsBasic\\Revision1\\A3_Optimal_JavaOopsBasic.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S2_LogicBuildingPatterns\\P1_EasyAndMedium\\Revision1\\A2_Better_EasyAndMedium.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P2_MinimumCostToCutTheStick\\Revision1\\A3_Optimal_MinimumCostToCutTheStick.java"
+                    ],
+    "05/Oct/2024":  [
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P3_FrogJumpWithKDistances\\Revision1\\A1_Brute_FrogJumpWithKDistances.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P7_FindOutHowManyTimesTheArrayIsRotated\\Revision1\\A3_Optimal_FindOutHowManyTimesTheArrayIsRotated.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P9_LfuCache\\Revision1\\A2_Better_LfuCache.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P7_DistinctSubsequences\\Revision1\\A1_Brute_DistinctSubsequences.java"
+                    ],
+    "04/Oct/2024":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P1_IntroductionToBst\\Revision1\\A1_Brute_IntroductionToBst.java",
+                        "all_syllabus\\Level1\\C19_Maths\\P2_PrimeFactorisationOfANumber\\Revision1\\A1_Brute_PrimeFactorisationOfANumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S2_LogicBuildingPatterns\\P2_Hard\\Revision1\\A1_Brute_Hard.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P7_CheckIfTheNumberIfArmstrong\\Revision1\\A2_Better_CheckIfTheNumberIfArmstrong.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P7_InorderSuccessorAndPredecessorInBst\\Revision1\\A2_Better_InorderSuccessorAndPredecessorInBst.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P1_ClimbingStairs\\Revision1\\A2_Better_ClimbingStairs.java"
+                    ],
+    "03/Oct/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P4_LongestCommonPrefix\\Revision1\\A3_Optimal_LongestCommonPrefix.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P5_UnionOfTwoSortedArrays\\Revision1\\A2_Better_UnionOfTwoSortedArrays.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P4_ConvertArrayToDll\\Revision1\\A2_Better_ConvertArrayToDll.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P9_WildcardMatching\\Revision1\\A3_Optimal_WildcardMatching.java"
+                    ],
+    "02/Oct/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P3_InorderTraversal\\Revision1\\A3_Optimal_InorderTraversal.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P14_Pattern14\\Revision1\\A2_Better_Pattern14.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P5_LongestRepeatingCharacterReplacement\\Revision1\\A1_Brute_LongestRepeatingCharacterReplacement.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P2_BinarySubarraysWithSum\\Revision1\\A3_Optimal_BinarySubarraysWithSum.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P3_AccountsMerge\\Revision1\\A3_Optimal_AccountsMerge.java"
+                    ],
+    "01/Oct/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P22_Pattern22\\Revision1\\A2_Better_Pattern22.java",
+                        "all_syllabus\\Level1\\C6_Recursion\\P2_GenerateParanthesis\\Revision1\\A2_Better_GenerateParanthesis.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P4_NumberOfEnclaves\\Revision1\\A3_Optimal_NumberOfEnclaves.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P3_InsertionInDll\\Revision1\\A2_Better_InsertionInDll.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P5_RotateMatrixBy90Degrees\\Revision1\\A3_Optimal_RotateMatrixBy90Degrees.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P4_SubsetsIi\\Revision1\\A1_Brute_SubsetsIi.java"
+                    ],
+    "30/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P5_ReturnTheLargestDigitInANumber\\Revision1\\A1_Brute_ReturnTheLargestDigitInANumber.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P5_ReversePairs\\Revision1\\A2_Better_ReversePairs.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P2_PrintShortestPath\\Revision1\\A2_Better_PrintShortestPath.java"
+                    ],
+    "29/Sep/2024":  [
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P2_FrogJump\\Revision1\\A1_Brute_FrogJump.java",
+                        "all_syllabus\\Level6\\C7_LinkedList\\P1_DeleteAllOccurrencesOfAKeyInDll\\Revision1\\A1_Brute_DeleteAllOccurrencesOfAKeyInDll.java"
+                    ],
+    "28/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P7_CheckIfTheNumberIfArmstrong\\Revision1\\A1_Brute_CheckIfTheNumberIfArmstrong.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P4_CountInversions\\Revision1\\A3_Optimal_CountInversions.java"
+                    ],
+    "27/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P5_Pattern5\\Revision1\\A2_Better_Pattern5.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P4_CountSubarraysWithGivenXorK\\Revision1\\A2_Better_CountSubarraysWithGivenXorK.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P7_3Sum\\Revision1\\A3_Optimal_3Sum.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P7_WordLadderI\\Revision1\\A2_Better_WordLadderI.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P3_FindTheIntersectionPointOfYLl\\Revision1\\A1_Brute_FindTheIntersectionPointOfYLl.java"
+                    ],
+    "26/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P3_FactorialOfAGivenNumber\\Revision1\\A3_Optimal_FactorialOfAGivenNumber.java"
+                    ],
+    "25/Sep/2024":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P2_ConnectedComponents\\Revision1\\A3_Optimal_ConnectedComponents.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P6_LeftRotateArray\\Revision1\\A3_Optimal_LeftRotateArray.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P2_MajorityElementIi\\Revision1\\A3_Optimal_MajorityElementIi.java"
+                    ],
+    "24/Sep/2024":  [
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P4_LargestBstInBinaryTree\\Revision1\\A1_Brute_LargestBstInBinaryTree.java",
+                        "all_syllabus\\Level3\\C16_DynamicProgramming\\P1_NinjaSTraining\\Revision1\\A3_Optimal_NinjaSTraining.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P8_BellmanFordAlgorithm\\Revision1\\A2_Better_BellmanFordAlgorithm.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P4_MinimumInsertionsToMakeStringPalindrome\\Revision1\\A1_Brute_MinimumInsertionsToMakeStringPalindrome.java"
+                    ],
+    "23/Sep/2024":  [
+                        "all_syllabus\\Level5\\C7_LinkedList\\P2_RotateALl\\Revision1\\A1_Brute_RotateALl.java"
+                    ],
+    "22/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P12_Pattern12\\Revision1\\A3_Optimal_Pattern12.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P2_RearrangeArrayElementsBySign\\Revision1\\A3_Optimal_RearrangeArrayElementsBySign.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P2_FindNthRootOfANumber\\Revision1\\A3_Optimal_FindNthRootOfANumber.java"
+                    ],
+    "21/Sep/2024":  [
+                        "all_syllabus\\Level2\\C12_Heaps\\P1_MergeKSortedLists\\Revision1\\A1_Brute_MergeKSortedLists.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P5_SearchInRotatedSortedArrayIi\\Revision1\\A3_Optimal_SearchInRotatedSortedArrayIi.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P1_ReverseLlInGroupOfGivenSizeK\\Revision1\\A1_Brute_ReverseLlInGroupOfGivenSizeK.java"
+                    ],
+    "20/Sep/2024":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P2_PrimeFactorisationOfANumber\\Revision1\\A3_Optimal_PrimeFactorisationOfANumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P11_SumOfDigitsInAGivenNumber\\Revision1\\A3_Optimal_SumOfDigitsInAGivenNumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P2_BasicArrays\\Revision1\\A2_Better_BasicArrays.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P2_CountNumberOfOddDigitsInANumber\\Revision1\\A3_Optimal_CountNumberOfOddDigitsInANumber.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P3_FloodFillAlgorithm\\Revision1\\A2_Better_FloodFillAlgorithm.java"
+                    ],
+    "19/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P1_CppSetup\\Revision1\\A2_Better_CppSetup.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P7_WordLadderI\\Revision1\\A3_Optimal_WordLadderI.java"
+                    ],
+    "18/Sep/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P2_PreorderTraversal\\Revision1\\A1_Brute_PreorderTraversal.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P5_IsomorphicString\\Revision1\\A3_Optimal_IsomorphicString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P11_GcdOfTwoNumbers\\Revision1\\A1_Brute_GcdOfTwoNumbers.java",
+                        "all_syllabus\\Level2\\C10_SlidingWindowAnd2Pointer\\P1_MaximumPointsYouCanObtainFromCards\\Revision1\\A3_Optimal_MaximumPointsYouCanObtainFromCards.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P5_MinimumDaysToMakeMBouquets\\Revision1\\A3_Optimal_MinimumDaysToMakeMBouquets.java"
+                    ],
+    "17/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P6_FactorialOfAGivenNumber\\Revision1\\A1_Brute_FactorialOfAGivenNumber.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P5_DeletionOfTheHeadOfLl\\Revision1\\A2_Better_DeletionOfTheHeadOfLl.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P1_MaximumDepthInBt\\Revision1\\A2_Better_MaximumDepthInBt.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P2_BipartiteGraph\\Revision1\\A1_Brute_BipartiteGraph.java"
+                    ],
+    "16/Sep/2024":  [
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P5_CountPartitionsWithGivenDifference\\Revision1\\A2_Better_CountPartitionsWithGivenDifference.java"
+                    ],
+    "15/Sep/2024":  [
+                        "all_syllabus\\Level3\\C3_Arrays\\P1_LeadersInAnArray\\Revision1\\A3_Optimal_LeadersInAnArray.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P1_AddTwoNumbersInLl\\Revision1\\A1_Brute_AddTwoNumbersInLl.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P6_MedianOf2SortedArrays\\Revision1\\A1_Brute_MedianOf2SortedArrays.java"
+                    ],
+    "14/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P7_Pattern7\\Revision1\\A1_Brute_Pattern7.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P6_DistanceOfNearestCellHavingOne\\Revision1\\A2_Better_DistanceOfNearestCellHavingOne.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P1_AggressiveCows\\Revision1\\A3_Optimal_AggressiveCows.java"
+                    ],
+    "13/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P7_ValidAnagram\\Revision1\\A2_Better_ValidAnagram.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P1_InsertAGivenNodeInBst\\Revision1\\A3_Optimal_InsertAGivenNodeInBst.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P7_FindOutHowManyTimesTheArrayIsRotated\\Revision1\\A2_Better_FindOutHowManyTimesTheArrayIsRotated.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P3_FindTheIntersectionPointOfYLl\\Revision1\\A3_Optimal_FindTheIntersectionPointOfYLl.java"
+                    ],
+    "12/Sep/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P7_ImplementQueueUsingLinkedlist\\Revision1\\A3_Optimal_ImplementQueueUsingLinkedlist.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P1_LinearSearch\\Revision1\\A1_Brute_LinearSearch.java"
+                    ],
+    "11/Sep/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P11_InsertionAtTheKthPositionOfLl\\Revision1\\A1_Brute_InsertionAtTheKthPositionOfLl.java"
+                    ],
+    "10/Sep/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P4_PostorderTraversal\\Revision1\\A3_Optimal_PostorderTraversal.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S5_StlAndCollections\\P1_Stl\\Revision1\\A1_Brute_Stl.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P5_MaximumSumCombination\\Revision1\\A3_Optimal_MaximumSumCombination.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P5_CheapestFlightWithinKStops\\Revision1\\A1_Brute_CheapestFlightWithinKStops.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P2_DisjointSet\\Revision1\\A3_Optimal_DisjointSet.java"
+                    ],
+    "09/Sep/2024":  [
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P4_SumOfSubarrayMinimums\\Revision1\\A2_Better_SumOfSubarrayMinimums.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P1_MaximumDepthInBt\\Revision1\\A1_Brute_MaximumDepthInBt.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P9_InsertNodeBeforeHeadInDll\\Revision1\\A1_Brute_InsertNodeBeforeHeadInDll.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P9_CoinChangeIi\\Revision1\\A1_Brute_CoinChangeIi.java"
+                    ],
+    "08/Sep/2024":  [
+                        "all_syllabus\\Level2\\C15_Graphs\\P5_RottenOranges\\Revision1\\A3_Optimal_RottenOranges.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P1_AddTwoNumbersInLl\\Revision1\\A2_Better_AddTwoNumbersInLl.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P3_ShortestPathWithMinimumEffort\\Revision1\\A3_Optimal_ShortestPathWithMinimumEffort.java"
+                    ],
+    "07/Sep/2024":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P1_PrintAllPrimesTillN\\Revision1\\A3_Optimal_PrintAllPrimesTillN.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P4_TopViewOfBt\\Revision1\\A1_Brute_TopViewOfBt.java"
+                    ],
+    "06/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P1_Pattern1\\Revision1\\A1_Brute_Pattern1.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P3_Pattern3\\Revision1\\A3_Optimal_Pattern3.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P1_AddTwoNumbersInLl\\Revision1\\A3_Optimal_AddTwoNumbersInLl.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P3_LongestPalindromicSubsequence\\Revision1\\A1_Brute_LongestPalindromicSubsequence.java"
+                    ],
+    "05/Sep/2024":  [
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P1_NextGreaterElement\\Revision1\\A3_Optimal_NextGreaterElement.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P1_MaximumDepthInBt\\Revision1\\A3_Optimal_MaximumDepthInBt.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P6_DeleteTailOfDll\\Revision1\\A3_Optimal_DeleteTailOfDll.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P6_ShortestPathInUndirectedGraphWithUnitWeights\\Revision1\\A3_Optimal_ShortestPathInUndirectedGraphWithUnitWeights.java"
+                    ],
+    "04/Sep/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P5_LevelOrderTraversal\\Revision1\\A3_Optimal_LevelOrderTraversal.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P2_RemoveDuplicatesFromSortedArray\\Revision1\\A2_Better_RemoveDuplicatesFromSortedArray.java"
+                    ],
+    "03/Sep/2024":  [
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P2_SlidingWindowMaximum\\Revision1\\A1_Brute_SlidingWindowMaximum.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P7_MergeTwoSortedArraysWithoutExtraSpace\\Revision1\\A3_Optimal_MergeTwoSortedArraysWithoutExtraSpace.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P7_SudokoSolver\\Revision1\\A3_Optimal_SudokoSolver.java"
+                    ],
+    "02/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P8_SortCharactersByFrequency\\Revision1\\A2_Better_SortCharactersByFrequency.java"
+                    ],
+    "01/Sep/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P7_CheckIfStringIsPalindromeOrNot\\Revision1\\A3_Optimal_CheckIfStringIsPalindromeOrNot.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P3_KmpAlgorithmOrLpsArray\\Revision1\\A3_Optimal_KmpAlgorithmOrLpsArray.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P8_LcaInBt\\Revision1\\A2_Better_LcaInBt.java",
+                        "all_syllabus\\Level6\\C7_LinkedList\\P2_RemoveDuplicatedFromSortedDll\\Revision1\\A3_Optimal_RemoveDuplicatedFromSortedDll.java"
+                    ],
+    "31/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P3_LargestOddNumberInAString\\Revision1\\A1_Brute_LargestOddNumberInAString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P9_Pattern9\\Revision1\\A1_Brute_Pattern9.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S4_TimeComplexity\\P1_TheoryWithExamples\\Revision1\\A2_Better_TheoryWithExamples.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P8_DeleteTheElementWithValueX\\Revision1\\A1_Brute_DeleteTheElementWithValueX.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P6_CheckForSymmetricalBts\\Revision1\\A1_Brute_CheckForSymmetricalBts.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P4_BestTimeToBuyAndSellStockIv\\Revision1\\A2_Better_BestTimeToBuyAndSellStockIv.java"
+                    ],
+    "30/Aug/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P2_CheckIfAnArrayRepresentsAMinHeap\\Revision1\\A1_Brute_CheckIfAnArrayRepresentsAMinHeap.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P7_ValidAnagram\\Revision1\\A1_Brute_ValidAnagram.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P7_DeletionOfTheKthElementOfLl\\Revision1\\A3_Optimal_DeletionOfTheKthElementOfLl.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P12_InsertBeforeGivenNodeInDll\\Revision1\\A3_Optimal_InsertBeforeGivenNodeInDll.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P7_XorOfNumbersInAGivenRange\\Revision1\\A1_Brute_XorOfNumbersInAGivenRange.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P7_3Sum\\Revision1\\A2_Better_3Sum.java"
+                    ],
+    "29/Aug/2024":  [
+                        "all_syllabus\\Level1\\C3_Arrays\\P5_LeftRotateArrayByOne\\Revision1\\A3_Optimal_LeftRotateArrayByOne.java",
+                        "all_syllabus\\Level1\\C6_Recursion\\P2_GenerateParanthesis\\Revision1\\A1_Brute_GenerateParanthesis.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P4_DiameterOfBinaryTree\\Revision1\\A2_Better_DiameterOfBinaryTree.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P3_KmpAlgorithmOrLpsArray\\Revision1\\A1_Brute_KmpAlgorithmOrLpsArray.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P2_SlidingWindowMaximum\\Revision1\\A3_Optimal_SlidingWindowMaximum.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P6_MedianOf2SortedArrays\\Revision1\\A2_Better_MedianOf2SortedArrays.java"
+                    ],
+    "28/Aug/2024":  [
+                        "all_syllabus\\Level1\\C2_Sorting\\P3_InsertionSorting\\Revision1\\A2_Better_InsertionSorting.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P5_QuickSorting\\Revision1\\A3_Optimal_QuickSorting.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P3_KmpAlgorithmOrLpsArray\\Revision1\\A2_Better_KmpAlgorithmOrLpsArray.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P6_CloneALlWithRandomAndNextPointer\\Revision1\\A1_Brute_CloneALlWithRandomAndNextPointer.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P3_AccountsMerge\\Revision1\\A2_Better_AccountsMerge.java"
+                    ],
+    "27/Aug/2024":  [
+                        "all_syllabus\\Level2\\C15_Graphs\\P1_NumberOfProvinces\\Revision1\\A1_Brute_NumberOfProvinces.java",
+                        "all_syllabus\\Level3\\C16_DynamicProgramming\\P1_NinjaSTraining\\Revision1\\A1_Brute_NinjaSTraining.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P2_SegregateOddAndEvenNodesInLl\\Revision1\\A1_Brute_SegregateOddAndEvenNodesInLl.java"
+                    ],
+    "26/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P11_Pattern11\\Revision1\\A2_Better_Pattern11.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P4_Pattern4\\Revision1\\A3_Optimal_Pattern4.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P1_SubsetSumEqualsToTarget\\Revision1\\A3_Optimal_SubsetSumEqualsToTarget.java"
+                    ],
+    "25/Aug/2024":  [
+                        "all_syllabus\\Level2\\C15_Graphs\\P4_NumberOfEnclaves\\Revision1\\A1_Brute_NumberOfEnclaves.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P11_InsertNodeBeforeKthNodeInDll\\Revision1\\A2_Better_InsertNodeBeforeKthNodeInDll.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P4_SingleNumberIii\\Revision1\\A3_Optimal_SingleNumberIii.java"
+                    ],
+    "24/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P4_JavaBasics\\Revision1\\A2_Better_JavaBasics.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P7_IfElseAdultTeenProblem\\Revision1\\A2_Better_IfElseAdultTeenProblem.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P9_SwitchCase\\Revision1\\A2_Better_SwitchCase.java"
+                    ],
+    "23/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P12_FibonacciNumber\\Revision1\\A2_Better_FibonacciNumber.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P2_JobSequencingProblem\\Revision1\\A3_Optimal_JobSequencingProblem.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P3_VerticalOrderTraversal\\Revision1\\A3_Optimal_VerticalOrderTraversal.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P6_MaximumProductSubarrayInAnArray\\Revision1\\A1_Brute_MaximumProductSubarrayInAnArray.java"
+                    ],
+    "22/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P2_SecondHighestOccurringElement\\Revision1\\A2_Better_SecondHighestOccurringElement.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P4_ShortestPalindrome\\Revision1\\A2_Better_ShortestPalindrome.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P5_SearchInRotatedSortedArrayIi\\Revision1\\A1_Brute_SearchInRotatedSortedArrayIi.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P3_CorrectBstWithTwoNodesSwapped\\Revision1\\A1_Brute_CorrectBstWithTwoNodesSwapped.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P3_BestTimeToBuyAndSellStockIii\\Revision1\\A1_Brute_BestTimeToBuyAndSellStockIii.java"
+                    ],
+    "21/Aug/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P3_ConvertMinHeapToMaxHeap\\Revision1\\A1_Brute_ConvertMinHeapToMaxHeap.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P4_BasicString\\Revision1\\A3_Optimal_BasicString.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P6_0And1Knapsack\\Revision1\\A2_Better_0And1Knapsack.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P7_MinimumCoins\\Revision1\\A2_Better_MinimumCoins.java"
+                    ],
+    "20/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P6_FactorialOfAGivenNumber\\Revision1\\A3_Optimal_FactorialOfAGivenNumber.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P4_SubsetsIi\\Revision1\\A2_Better_SubsetsIi.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P1_NumberOfSubstringsContainingAllThreeCharacters\\Revision1\\A2_Better_NumberOfSubstringsContainingAllThreeCharacters.java"
+                    ],
+    "19/Aug/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P3_ConvertMinHeapToMaxHeap\\Revision1\\A3_Optimal_ConvertMinHeapToMaxHeap.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P3_SumOfHighestAndLowestFrequency\\Revision1\\A1_Brute_SumOfHighestAndLowestFrequency.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P4_MergeSorting\\Revision1\\A1_Brute_MergeSorting.java"
+                    ],
+    "18/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P9_CheckForPrimeNumber\\Revision1\\A1_Brute_CheckForPrimeNumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P4_CheckIfTheArrayIsSorted\\Revision1\\A1_Brute_CheckIfTheArrayIsSorted.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P4_LongestSubstringWithAtMostKDistinctCharacters\\Revision1\\A2_Better_LongestSubstringWithAtMostKDistinctCharacters.java"
+                    ],
+    "17/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P18_Pattern18\\Revision1\\A3_Optimal_Pattern18.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P22_Pattern22\\Revision1\\A1_Brute_Pattern22.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P13_DivisorsOfANumber\\Revision1\\A1_Brute_DivisorsOfANumber.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P1_IntroductionToSinglyLinkedlist\\Revision1\\A3_Optimal_IntroductionToSinglyLinkedlist.java"
+                    ],
+    "16/Aug/2024":  [
+                        "all_syllabus\\Level2\\C7_LinkedList\\P11_InsertNodeBeforeKthNodeInDll\\Revision1\\A1_Brute_InsertNodeBeforeKthNodeInDll.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P2_SegregateOddAndEvenNodesInLl\\Revision1\\A2_Better_SegregateOddAndEvenNodesInLl.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P10_UnboundedKnapsack\\Revision1\\A3_Optimal_UnboundedKnapsack.java"
+                    ],
+    "15/Aug/2024":  [
+                        "all_syllabus\\Level1\\C3_Arrays\\P2_LargestElement\\Revision1\\A1_Brute_LargestElement.java",
+                        "all_syllabus\\Level1\\C6_Recursion\\P1_PowXN\\Revision1\\A2_Better_PowXN.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P3_KthSmallestAndLargestElementInBst\\Revision1\\A1_Brute_KthSmallestAndLargestElementInBst.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P5_UnionOfTwoSortedArrays\\Revision1\\A1_Brute_UnionOfTwoSortedArrays.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P7_FindOutHowManyTimesTheArrayIsRotated\\Revision1\\A1_Brute_FindOutHowManyTimesTheArrayIsRotated.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P2_CombinationSumIi\\Revision1\\A3_Optimal_CombinationSumIi.java",
+                        "all_syllabus\\Level3\\C9_GreedyAlgorithms\\P1_ValidParanthesisChecker\\Revision1\\A1_Brute_ValidParanthesisChecker.java"
+                    ],
+    "14/Aug/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P1_ImplementPqUsingHeaps\\Revision1\\A1_Brute_ImplementPqUsingHeaps.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P20_Pattern20\\Revision1\\A3_Optimal_Pattern20.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P8_RemovingGivenNodeInDll\\Revision1\\A3_Optimal_RemovingGivenNodeInDll.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P6_CloneALlWithRandomAndNextPointer\\Revision1\\A2_Better_CloneALlWithRandomAndNextPointer.java"
+                    ],
+    "13/Aug/2024":  [
+                        "all_syllabus\\Level1\\C10_SlidingWindowAnd2Pointer\\P1_Theory\\Revision1\\A3_Optimal_Theory.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P4_ShortestPalindrome\\Revision1\\A1_Brute_ShortestPalindrome.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P7_WordLadderI\\Revision1\\A1_Brute_WordLadderI.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P1_MstTheory\\Revision1\\A1_Brute_MstTheory.java"
+                    ],
+    "12/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S2_LogicBuildingPatterns\\P1_EasyAndMedium\\Revision1\\A3_Optimal_EasyAndMedium.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P2_BubbleSort\\Revision1\\A3_Optimal_BubbleSort.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P4_InsertionInLinkedList\\Revision1\\A3_Optimal_InsertionInLinkedList.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P2_FloorAndCeilInSortedArray\\Revision1\\A3_Optimal_FloorAndCeilInSortedArray.java"
+                    ],
+    "11/Aug/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P4_InsertionInLinkedList\\Revision1\\A2_Better_InsertionInLinkedList.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P3_FruitIntoBaskets\\Revision1\\A2_Better_FruitIntoBaskets.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P6_StockSpanProblem\\Revision1\\A1_Brute_StockSpanProblem.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P7_MergeTwoSortedArraysWithoutExtraSpace\\Revision1\\A2_Better_MergeTwoSortedArraysWithoutExtraSpace.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P2_BookAllocationProblem\\Revision1\\A2_Better_BookAllocationProblem.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P9_CoinChangeIi\\Revision1\\A2_Better_CoinChangeIi.java"
+                    ],
+    "10/Aug/2024":  [
+                        "all_syllabus\\Level3\\C15_Graphs\\P1_DetectACycleInAnUndirectedGraph\\Revision1\\A3_Optimal_DetectACycleInAnUndirectedGraph.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P7_DistinctSubsequences\\Revision1\\A2_Better_DistinctSubsequences.java"
+                    ],
+    "09/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P6_ReverseAString\\Revision1\\A2_Better_ReverseAString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P3_ReverseANumber\\Revision1\\A3_Optimal_ReverseANumber.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P4_CountSubsetsWithSumK\\Revision1\\A2_Better_CountSubsetsWithSumK.java"
+                    ],
+    "08/Aug/2024":  [
+                        "all_syllabus\\Level3\\C3_Arrays\\P2_PrintTheMatrixInSpiralManner\\Revision1\\A3_Optimal_PrintTheMatrixInSpiralManner.java"
+                    ],
+    "07/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P19_Pattern19\\Revision1\\A3_Optimal_Pattern19.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P11_GcdOfTwoNumbers\\Revision1\\A3_Optimal_GcdOfTwoNumbers.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P6_DeletionOfTheTailOfLl\\Revision1\\A2_Better_DeletionOfTheTailOfLl.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P1_NextGreaterElement\\Revision1\\A2_Better_NextGreaterElement.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P4_DetectACycleInADirectedGraph\\Revision1\\A1_Brute_DetectACycleInADirectedGraph.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P2_RearrangeArrayElementsBySign\\Revision1\\A2_Better_RearrangeArrayElementsBySign.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P6_LengthOfLoopInLl\\Revision1\\A3_Optimal_LengthOfLoopInLl.java",
+                        "all_syllabus\\Level5\\C13_BinaryTrees\\P2_MorrisPreorderTraversal\\Revision1\\A1_Brute_MorrisPreorderTraversal.java"
+                    ],
+    "05/Aug/2024":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P3_TraversalTechniques\\Revision1\\A2_Better_TraversalTechniques.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P2_MajorityElementIi\\Revision1\\A1_Brute_MajorityElementIi.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P3_ArticulationPointInGraph\\Revision1\\A1_Brute_ArticulationPointInGraph.java"
+                    ],
+    "04/Aug/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P1_ImplementationUsingDifferentDs\\Revision1\\A3_Optimal_ImplementationUsingDifferentDs.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P10_Pattern10\\Revision1\\A1_Brute_Pattern10.java",
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P1_SearchXInSortedArray\\Revision1\\A1_Brute_SearchXInSortedArray.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P2_DesignTwitter\\Revision1\\A3_Optimal_DesignTwitter.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P5_InsertInterval\\Revision1\\A2_Better_InsertInterval.java"
+                    ],
+    "03/Aug/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P4_ImplementStackUsingQueue\\Revision1\\A1_Brute_ImplementStackUsingQueue.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P3_FindMissingNumber\\Revision1\\A3_Optimal_FindMissingNumber.java"
+                    ],
+    "01/Aug/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P2_CppBasics\\Revision1\\A3_Optimal_CppBasics.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P5_CombinationSumIii\\Revision1\\A3_Optimal_CombinationSumIii.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P7_MinimumCoins\\Revision1\\A3_Optimal_MinimumCoins.java"
+                    ],
+    "31/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P1_BasicMaths\\Revision1\\A3_Optimal_BasicMaths.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P1_ClimbingStairs\\Revision1\\A1_Brute_ClimbingStairs.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P1_ReverseLlInGroupOfGivenSizeK\\Revision1\\A2_Better_ReverseLlInGroupOfGivenSizeK.java"
+                    ],
+    "30/Jul/2024":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P3_FloorAndCeilInABst\\Revision1\\A2_Better_FloorAndCeilInABst.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P6_InputOutput\\Revision1\\A2_Better_InputOutput.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P1_FindEventualSafeStates\\Revision1\\A2_Better_FindEventualSafeStates.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P2_UniquePathsIi\\Revision1\\A3_Optimal_UniquePathsIi.java"
+                    ],
+    "29/Jul/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P2_ImplementStackUsingArrays\\Revision1\\A1_Brute_ImplementStackUsingArrays.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P5_DeletionOfTheHeadOfLl\\Revision1\\A1_Brute_DeletionOfTheHeadOfLl.java",
+                        "all_syllabus\\Level1\\C8_BitManipulation\\P1_IntroductionToBitsAndTricks\\Revision1\\A2_Better_IntroductionToBitsAndTricks.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P123_SplitArrayLargestSum\\Revision1\\A1_Brute_SplitArrayLargestSum.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P2_BestTimeToBuyAndSellStockIi\\Revision1\\A2_Better_BestTimeToBuyAndSellStockIi.java"
+                    ],
+    "28/Jul/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P7_ImplementQueueUsingLinkedlist\\Revision1\\A1_Brute_ImplementQueueUsingLinkedlist.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P6_ReverseAString\\Revision1\\A3_Optimal_ReverseAString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P6_Pattern6\\Revision1\\A3_Optimal_Pattern6.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P1_CountAllDigitsOfANumber\\Revision1\\A1_Brute_CountAllDigitsOfANumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P1_HighestOccurringElementInAnArray\\Revision1\\A2_Better_HighestOccurringElementInAnArray.java",
+                        "all_syllabus\\Level2\\C6_Recursion\\P2_CountAllSubsequencesWithSumK\\Revision1\\A2_Better_CountAllSubsequencesWithSumK.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P1_MajorityElementI\\Revision1\\A3_Optimal_MajorityElementI.java"
+                    ],
+    "27/Jul/2024":  [
+                        "create_java_structure_V3.ps1",
+                        "all_syllabus\\Level1\\C2_Sorting\\P4_MergeSorting\\Revision1\\A2_Better_MergeSorting.java"
+                    ],
+    "26/Jul/2024":  [
+                        "all_syllabus\\Level2\\C7_LinkedList\\P1_IntroductionToDoublyLl\\Revision1\\A1_Brute_IntroductionToDoublyLl.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P1_IntroductionToDoublyLl\\Revision1\\A3_Optimal_IntroductionToDoublyLl.java"
+                    ],
+    "25/Jul/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P1_ImplementationUsingDifferentDs\\Revision1\\A2_Better_ImplementationUsingDifferentDs.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P3_Pattern3\\Revision1\\A1_Brute_Pattern3.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P1_AddOneToANumberRepresentedByLl\\Revision1\\A1_Brute_AddOneToANumberRepresentedByLl.java"
+                    ],
+    "24/Jul/2024":  [
+                        "all_syllabus\\Level1\\C17_Tries\\P1_TrieImplementationAndOperations\\Revision1\\A2_Better_TrieImplementationAndOperations.java",
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P1_AssignCookies\\Revision1\\A2_Better_AssignCookies.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P6_RightLeftViewOfBt\\Revision1\\A2_Better_RightLeftViewOfBt.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P8_EditDistance\\Revision1\\A1_Brute_EditDistance.java"
+                    ],
+    "23/Jul/2024":  [
+                        "all_syllabus\\Level2\\C15_Graphs\\P3_FloodFillAlgorithm\\Revision1\\A1_Brute_FloodFillAlgorithm.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P2_SingleNumberI\\Revision1\\A3_Optimal_SingleNumberI.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P3_FindPeakElement\\Revision1\\A3_Optimal_FindPeakElement.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P6_ShortestCommonSupersequence\\Revision1\\A3_Optimal_ShortestCommonSupersequence.java"
+                    ],
+    "22/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P17_Pattern17\\Revision1\\A3_Optimal_Pattern17.java",
+                        "all_syllabus\\Level3\\C9_GreedyAlgorithms\\P1_ValidParanthesisChecker\\Revision1\\A3_Optimal_ValidParanthesisChecker.java"
+                    ],
+    "21/Jul/2024":  [
+                        "all_syllabus\\Level1\\C3_Arrays\\P3_SecondLargestElement\\Revision1\\A3_Optimal_SecondLargestElement.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P1_MergeKSortedLists\\Revision1\\A2_Better_MergeKSortedLists.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P1_LongestWordWithAllPrefixes\\Revision1\\A2_Better_LongestWordWithAllPrefixes.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P1_GridUniquePaths\\Revision1\\A2_Better_GridUniquePaths.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P5_MinimiseMaxDistanceToGasStations\\Revision1\\A2_Better_MinimiseMaxDistanceToGasStations.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P7_DeleteTheMiddleNodeInLl\\Revision1\\A3_Optimal_DeleteTheMiddleNodeInLl.java"
+                    ],
+    "20/Jul/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P4_KThLargestElementInAnArray\\Revision1\\A1_Brute_KThLargestElementInAnArray.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P5_CheapestFlightWithinKStops\\Revision1\\A2_Better_CheapestFlightWithinKStops.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P4_CountSubsetsWithSumK\\Revision1\\A3_Optimal_CountSubsetsWithSumK.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P2_NumberOfOperationsToMakeNetworkConnected\\Revision1\\A2_Better_NumberOfOperationsToMakeNetworkConnected.java"
+                    ],
+    "19/Jul/2024":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P2_SearchInBst\\Revision1\\A3_Optimal_SearchInBst.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P4_SearchInRotatedSortedArrayI\\Revision1\\A2_Better_SearchInRotatedSortedArrayI.java",
+                        "all_syllabus\\Level2\\C6_Recursion\\P2_CountAllSubsequencesWithSumK\\Revision1\\A1_Brute_CountAllSubsequencesWithSumK.java"
+                    ],
+    "18/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P13_Pattern13\\Revision1\\A2_Better_Pattern13.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P2_DeleteANodeInBst\\Revision1\\A2_Better_DeleteANodeInBst.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P4_MaximumSumOfNonAdjacentElements\\Revision1\\A3_Optimal_MaximumSumOfNonAdjacentElements.java"
+                    ],
+    "17/Jul/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P2_PreorderTraversal\\Revision1\\A3_Optimal_PreorderTraversal.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P5_KthElementOf2SortedArrays\\Revision1\\A2_Better_KthElementOf2SortedArrays.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P3_ArticulationPointInGraph\\Revision1\\A2_Better_ArticulationPointInGraph.java"
+                    ],
+    "16/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P1_CppSetup\\Revision1\\A1_Brute_CppSetup.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P11_Pattern11\\Revision1\\A3_Optimal_Pattern11.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P4_NonOverlappingIntervals\\Revision1\\A1_Brute_NonOverlappingIntervals.java"
+                    ],
+    "15/Jul/2024":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P1_IntroductionToGraph\\Revision1\\A3_Optimal_IntroductionToGraph.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P11_RodCuttingProblem\\Revision1\\A3_Optimal_RodCuttingProblem.java"
+                    ],
+    "14/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P9_ReverseAnArray\\Revision1\\A3_Optimal_ReverseAnArray.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P1_NextGreaterElement\\Revision1\\A1_Brute_NextGreaterElement.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P6_IntersectionOfTwoSortedArrays\\Revision1\\A1_Brute_IntersectionOfTwoSortedArrays.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P12_InsertBeforeGivenNodeInDll\\Revision1\\A2_Better_InsertBeforeGivenNodeInDll.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P2_DeletionInDoublyLl\\Revision1\\A3_Optimal_DeletionInDoublyLl.java"
+                    ],
+    "13/Jul/2024":  [
+                        "all_syllabus\\Level1\\C17_Tries\\P2_TrieImplementationAndAdvancedOperations\\Revision1\\A2_Better_TrieImplementationAndAdvancedOperations.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P7_IfElseAdultTeenProblem\\Revision1\\A1_Brute_IfElseAdultTeenProblem.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P3_NMeetingsInOneRoom\\Revision1\\A1_Brute_NMeetingsInOneRoom.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P1_NumberOfSubstringsContainingAllThreeCharacters\\Revision1\\A1_Brute_NumberOfSubstringsContainingAllThreeCharacters.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P6_LengthOfLoopInLl\\Revision1\\A1_Brute_LengthOfLoopInLl.java"
+                    ],
+    "12/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P5_SumOfArrayElements\\Revision1\\A3_Optimal_SumOfArrayElements.java",
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P2_LowerBound\\Revision1\\A2_Better_LowerBound.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P2_FrogJump\\Revision1\\A3_Optimal_FrogJump.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P3_MergeSortedLists\\Revision1\\A3_Optimal_MergeSortedLists.java"
+                    ],
+    "11/Jul/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P2_PreorderTraversal\\Revision1\\A2_Better_PreorderTraversal.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P8_CheckForPerfectNumber\\Revision1\\A3_Optimal_CheckForPerfectNumber.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P3_CorrectBstWithTwoNodesSwapped\\Revision1\\A3_Optimal_CorrectBstWithTwoNodesSwapped.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P4_DetectACycleInADirectedGraph\\Revision1\\A2_Better_DetectACycleInADirectedGraph.java"
+                    ],
+    "10/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P10_CheckIfTheArrayIsSorted\\Revision1\\A3_Optimal_CheckIfTheArrayIsSorted.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P9_ReverseAnArray\\Revision1\\A2_Better_ReverseAnArray.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P2_NumberOfDistinctSubstringsInAString\\Revision1\\A1_Brute_NumberOfDistinctSubstringsInAString.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P11_MinimumTimeTakenToBurnTheBtFromAGivenNode\\Revision1\\A1_Brute_MinimumTimeTakenToBurnTheBtFromAGivenNode.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P1_AggressiveCows\\Revision1\\A2_Better_AggressiveCows.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P9_FloydWarshallAlgorithm\\Revision1\\A1_Brute_FloydWarshallAlgorithm.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P6_MostStonesRemovedWithSameRowOrColumn\\Revision1\\A2_Better_MostStonesRemovedWithSameRowOrColumn.java"
+                    ],
+    "09/Jul/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P1_IntroductionToSinglyLinkedlist\\Revision1\\A1_Brute_IntroductionToSinglyLinkedlist.java"
+                    ],
+    "08/Jul/2024":  [
+                        "all_syllabus\\Level2\\C12_Heaps\\P2_DesignTwitter\\Revision1\\A1_Brute_DesignTwitter.java"
+                    ],
+    "07/Jul/2024":  [
+                        "all_syllabus\\Level1\\C10_SlidingWindowAnd2Pointer\\P1_Theory\\Revision1\\A1_Brute_Theory.java",
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P1_Introduction\\Revision1\\A1_Brute_Introduction.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P4_JavaBasics\\Revision1\\A1_Brute_JavaBasics.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P8_NumberOfDistinctIslands\\Revision1\\A3_Optimal_NumberOfDistinctIslands.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P8_WordLadderIi\\Revision1\\A1_Brute_WordLadderIi.java"
+                    ],
+    "06/Jul/2024":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P1_PrintAllPrimesTillN\\Revision1\\A1_Brute_PrintAllPrimesTillN.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P2_CountOfOddNumbersInArray\\Revision1\\A2_Better_CountOfOddNumbersInArray.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P1_SelectionSort\\Revision1\\A3_Optimal_SelectionSort.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P1_LongestConsecutiveSequenceInAnArray\\Revision1\\A1_Brute_LongestConsecutiveSequenceInAnArray.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P5_DivideTwoNumbersWithoutMultiplicationAndDivision\\Revision1\\A3_Optimal_DivideTwoNumbersWithoutMultiplicationAndDivision.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P3_FindTheSmallestDivisor\\Revision1\\A3_Optimal_FindTheSmallestDivisor.java"
+                    ],
+    "05/Jul/2024":  [
+                        "file_list_by_date.json",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P10_InsertionAtTheTailOfLl\\Revision1\\A3_Optimal_InsertionAtTheTailOfLl.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P3_AsteroidCollision\\Revision1\\A1_Brute_AsteroidCollision.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P8_LruCache\\Revision1\\A2_Better_LruCache.java"
+                    ],
+    "04/Jul/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P3_DeletionInLinkedList\\Revision1\\A3_Optimal_DeletionInLinkedList.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P4_FlatteningOfLl\\Revision1\\A1_Brute_FlatteningOfLl.java"
+                    ],
+    "03/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P1_RecursionTheory\\Revision1\\A2_Better_RecursionTheory.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P12_PrintLastCharacterOfString\\Revision1\\A1_Brute_PrintLastCharacterOfString.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P2_FloorAndCeilInSortedArray\\Revision1\\A2_Better_FloorAndCeilInSortedArray.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P7_DeleteKthElementOfDll\\Revision1\\A1_Brute_DeleteKthElementOfDll.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P6_ShortestCommonSupersequence\\Revision1\\A1_Brute_ShortestCommonSupersequence.java"
+                    ],
+    "02/Jul/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P2_CppBasics\\Revision1\\A1_Brute_CppBasics.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P8_IfElseif\\Revision1\\A3_Optimal_IfElseif.java"
+                    ],
+    "01/Jul/2024":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P1_IntroductionToGraph\\Revision1\\A2_Better_IntroductionToGraph.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P6_FactorialOfAGivenNumber\\Revision1\\A2_Better_FactorialOfAGivenNumber.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P3_FindTheRepeatingAndMissingNumber\\Revision1\\A2_Better_FindTheRepeatingAndMissingNumber.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P3_LongestPalindromicSubsequence\\Revision1\\A3_Optimal_LongestPalindromicSubsequence.java"
+                    ],
+    "30/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P4_PalindromeNumber\\Revision1\\A3_Optimal_PalindromeNumber.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P4_FindMedianFromDataStream\\Revision1\\A2_Better_FindMedianFromDataStream.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P3_TopologicalSortOrKahnsAlgorithm\\Revision1\\A3_Optimal_TopologicalSortOrKahnsAlgorithm.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P2_RearrangeArrayElementsBySign\\Revision1\\A1_Brute_RearrangeArrayElementsBySign.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P1_RequirementsNeededToConstructAUniqueBt\\Revision1\\A3_Optimal_RequirementsNeededToConstructAUniqueBt.java"
+                    ],
+    "29/Jun/2024":  [
+                        "all_syllabus\\Level3\\C9_GreedyAlgorithms\\P1_ValidParanthesisChecker\\Revision1\\A2_Better_ValidParanthesisChecker.java"
+                    ],
+    "28/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P10_SumOfFirstLastElementInArray\\Revision1\\A2_Better_SumOfFirstLastElementInArray.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P8_Pattern8\\Revision1\\A2_Better_Pattern8.java"
+                    ],
+    "27/Jun/2024":  [
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P2_LemonadeChange\\Revision1\\A3_Optimal_LemonadeChange.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P5_LcaInBst\\Revision1\\A1_Brute_LcaInBst.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P5_SearchInRotatedSortedArrayIi\\Revision1\\A2_Better_SearchInRotatedSortedArrayIi.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P2_CheckIfLlIsPalindromeOrNot\\Revision1\\A3_Optimal_CheckIfLlIsPalindromeOrNot.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P1_BestTimeToBuyAndSellStock\\Revision1\\A1_Brute_BestTimeToBuyAndSellStock.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P5_SortLl\\Revision1\\A1_Brute_SortLl.java"
+                    ],
+    "26/Jun/2024":  [
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P3_BurstBalloons\\Revision1\\A1_Brute_BurstBalloons.java"
+                    ],
+    "25/Jun/2024":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P2_ConnectedComponents\\Revision1\\A1_Brute_ConnectedComponents.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P4_MergeSorting\\Revision1\\A3_Optimal_MergeSorting.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P2_LongestSubarrayWithSumK\\Revision1\\A1_Brute_LongestSubarrayWithSumK.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P4_LargestBstInBinaryTree\\Revision1\\A2_Better_LargestBstInBinaryTree.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P1_FindSquareRootOfANumber\\Revision1\\A3_Optimal_FindSquareRootOfANumber.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P1_DijkstraSAlgorithm\\Revision1\\A2_Better_DijkstraSAlgorithm.java"
+                    ],
+    "24/Jun/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P9_InsertionAtTheHeadOfLl\\Revision1\\A2_Better_InsertionAtTheHeadOfLl.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P9_LfuCache\\Revision1\\A1_Brute_LfuCache.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P2_BipartiteGraph\\Revision1\\A3_Optimal_BipartiteGraph.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P5_CombinationSumIii\\Revision1\\A2_Better_CombinationSumIii.java"
+                    ],
+    "22/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P9_Pattern9\\Revision1\\A2_Better_Pattern9.java",
+                        "all_syllabus\\Level1\\C6_Recursion\\P2_GenerateParanthesis\\Revision1\\A3_Optimal_GenerateParanthesis.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P2_TraversalInLinkedList\\Revision1\\A3_Optimal_TraversalInLinkedList.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P5_BottomViewOfBt\\Revision1\\A1_Brute_BottomViewOfBt.java",
+                        "all_syllabus\\Level3\\C9_GreedyAlgorithms\\P2_Candy\\Revision1\\A1_Brute_Candy.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P1_SubsetSumEqualsToTarget\\Revision1\\A2_Better_SubsetSumEqualsToTarget.java"
+                    ],
+    "21/Jun/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P5_ImplementQueueUsingStack\\Revision1\\A1_Brute_ImplementQueueUsingStack.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P3_SingleNumberIi\\Revision1\\A3_Optimal_SingleNumberIi.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P5_FindTheStartingPointInLl\\Revision1\\A1_Brute_FindTheStartingPointInLl.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P2_SearchInA2dMatrix\\Revision1\\A2_Better_SearchInA2dMatrix.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P4_RatInAMaze\\Revision1\\A1_Brute_RatInAMaze.java"
+                    ],
+    "20/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P1_ReverseAString\\Revision1\\A1_Brute_ReverseAString.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P1_RabinKarpAlgorithm\\Revision1\\A2_Better_RabinKarpAlgorithm.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P5_MinimumDaysToMakeMBouquets\\Revision1\\A2_Better_MinimumDaysToMakeMBouquets.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P2_BridgesInGraph\\Revision1\\A3_Optimal_BridgesInGraph.java"
+                    ],
+    "19/Jun/2024":  [
+                        "base.json",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P5_LcaInBst\\Revision1\\A2_Better_LcaInBst.java"
+                    ],
+    "18/Jun/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P4_PostorderTraversal\\Revision1\\A1_Brute_PostorderTraversal.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P12_LcmOfTwoNumbers\\Revision1\\A1_Brute_LcmOfTwoNumbers.java"
+                    ],
+    "17/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P9_SwitchCase\\Revision1\\A1_Brute_SwitchCase.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P19_Pattern19\\Revision1\\A2_Better_Pattern19.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P4_MaximumConsecutiveOnes\\Revision1\\A3_Optimal_MaximumConsecutiveOnes.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P3_FirstAndLastOccurrence\\Revision1\\A1_Brute_FirstAndLastOccurrence.java",
+                        "all_syllabus\\Level2\\C6_Recursion\\P2_CheckIfThereExistsASubsequenceWithSumK\\Revision1\\A3_Optimal_CheckIfThereExistsASubsequenceWithSumK.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P3_InsertionInDll\\Revision1\\A3_Optimal_InsertionInDll.java",
+                        "all_syllabus\\Level3\\C9_GreedyAlgorithms\\P2_Candy\\Revision1\\A2_Better_Candy.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P2_ConstructABtFromPreorderAndInorder\\Revision1\\A2_Better_ConstructABtFromPreorderAndInorder.java"
+                    ],
+    "16/Jun/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P7_DeletionOfTheKthElementOfLl\\Revision1\\A1_Brute_DeletionOfTheKthElementOfLl.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P2_DeleteANodeInBst\\Revision1\\A1_Brute_DeleteANodeInBst.java"
+                    ],
+    "15/Jun/2024":  [
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P5_CherryPickupIi\\Revision1\\A1_Brute_CherryPickupIi.java"
+                    ],
+    "14/Jun/2024":  [
+                        "all_syllabus\\Level2\\C17_Tries\\P4_MaximumXorWithAnElementFromAnArray\\Revision1\\A3_Optimal_MaximumXorWithAnElementFromAnArray.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P6_PowerSetDup\\Revision1\\A1_Brute_PowerSetDup.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P3_FindTheSmallestDivisor\\Revision1\\A2_Better_FindTheSmallestDivisor.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P3_BurstBalloons\\Revision1\\A2_Better_BurstBalloons.java"
+                    ],
+    "13/Jun/2024":  [
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P3_UpperBound\\Revision1\\A3_Optimal_UpperBound.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P3_KthSmallestAndLargestElementInBst\\Revision1\\A2_Better_KthSmallestAndLargestElementInBst.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P1_SearchInsertPosition\\Revision1\\A3_Optimal_SearchInsertPosition.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P5_RotateMatrixBy90Degrees\\Revision1\\A1_Brute_RotateMatrixBy90Degrees.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P2_PrintShortestPath\\Revision1\\A1_Brute_PrintShortestPath.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P1_KosarajuSAlgorithm\\Revision1\\A3_Optimal_KosarajuSAlgorithm.java"
+                    ],
+    "12/Jun/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P8_BalancedParanthesis\\Revision1\\A2_Better_BalancedParanthesis.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P8_Pattern8\\Revision1\\A1_Brute_Pattern8.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P6_MaximumProductSubarrayInAnArray\\Revision1\\A3_Optimal_MaximumProductSubarrayInAnArray.java"
+                    ],
+    "11/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P16_Pattern16\\Revision1\\A2_Better_Pattern16.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P3_SecondLargestElement\\Revision1\\A2_Better_SecondLargestElement.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P6_FindMinimumInRotatedSortedArray\\Revision1\\A3_Optimal_FindMinimumInRotatedSortedArray.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P6_StockSpanProblem\\Revision1\\A3_Optimal_StockSpanProblem.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P4_CountInversions\\Revision1\\A1_Brute_CountInversions.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P3_BestTimeToBuyAndSellStockIii\\Revision1\\A3_Optimal_BestTimeToBuyAndSellStockIii.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P5_MatrixMedian\\Revision1\\A3_Optimal_MatrixMedian.java"
+                    ],
+    "10/Jun/2024":  [
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P2_ZFunction\\Revision1\\A1_Brute_ZFunction.java"
+                    ],
+    "09/Jun/2024":  [
+                        "all_syllabus\\Level1\\C16_DynamicProgramming\\P1_IntroductionToDp\\Revision1\\A3_Optimal_IntroductionToDp.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P5_LongestHappyPrefix\\Revision1\\A3_Optimal_LongestHappyPrefix.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P4_ConvertArrayToDll\\Revision1\\A1_Brute_ConvertArrayToDll.java"
+                    ],
+    "08/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P8_CheckIfANumberIsPrimeOrNot\\Revision1\\A2_Better_CheckIfANumberIsPrimeOrNot.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P2_FloorAndCeilInSortedArray\\Revision1\\A1_Brute_FloorAndCeilInSortedArray.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P7_CelebrityProblem\\Revision1\\A3_Optimal_CelebrityProblem.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P6_RightLeftViewOfBt\\Revision1\\A3_Optimal_RightLeftViewOfBt.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P3_CountNumberOfNiceSubarrays\\Revision1\\A3_Optimal_CountNumberOfNiceSubarrays.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P3_CourseScheduleIi\\Revision1\\A1_Brute_CourseScheduleIi.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P4_DetectALoopInLl\\Revision1\\A1_Brute_DetectALoopInLl.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P2_RotateALl\\Revision1\\A3_Optimal_RotateALl.java"
+                    ],
+    "07/Jun/2024":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P3_TraversalTechniques\\Revision1\\A1_Brute_TraversalTechniques.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P12_Pattern12\\Revision1\\A1_Brute_Pattern12.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P4_PascalSTriangle\\Revision1\\A2_Better_PascalSTriangle.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P5_ReverseALl\\Revision1\\A3_Optimal_ReverseALl.java"
+                    ],
+    "06/Jun/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P2_ImplementStackUsingArrays\\Revision1\\A2_Better_ImplementStackUsingArrays.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P10_InsertionAtTheTailOfLl\\Revision1\\A1_Brute_InsertionAtTheTailOfLl.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P6_MinimumNumberOfPlatformsRequiredForARailway\\Revision1\\A2_Better_MinimumNumberOfPlatformsRequiredForARailway.java"
+                    ],
+    "05/Jun/2024":  [
+                        "all_syllabus\\Level1\\C18_StringsAdvancedAlgo\\P3_CountAndSay\\Revision1\\A3_Optimal_CountAndSay.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P2_BoundaryTraversal\\Revision1\\A2_Better_BoundaryTraversal.java"
+                    ],
+    "04/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P6_RotateString\\Revision1\\A3_Optimal_RotateString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P1_CountAllDigitsOfANumber\\Revision1\\A2_Better_CountAllDigitsOfANumber.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P3_SearchIn2dMatrixIi\\Revision1\\A3_Optimal_SearchIn2dMatrixIi.java"
+                    ],
+    "03/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P4_CheckIfTheArrayIsSorted\\Revision1\\A2_Better_CheckIfTheArrayIsSorted.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P8_SingleElementInSortedArray\\Revision1\\A1_Brute_SingleElementInSortedArray.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P2_PrintTheMatrixInSpiralManner\\Revision1\\A1_Brute_PrintTheMatrixInSpiralManner.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P5_KthElementOf2SortedArrays\\Revision1\\A3_Optimal_KthElementOf2SortedArrays.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P3_ArticulationPointInGraph\\Revision1\\A3_Optimal_ArticulationPointInGraph.java"
+                    ],
+    "02/Jun/2024":  [
+                        "all_syllabus\\Level4\\C15_Graphs\\P1_FindEventualSafeStates\\Revision1\\A1_Brute_FindEventualSafeStates.java"
+                    ],
+    "01/Jun/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P3_ReverseAnArray\\Revision1\\A3_Optimal_ReverseAnArray.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P4_Triangle\\Revision1\\A3_Optimal_Triangle.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P10_FindTheCityWithTheSmallestNumberOfNeighbors\\Revision1\\A1_Brute_FindTheCityWithTheSmallestNumberOfNeighbors.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P5_MakingALargeIsland\\Revision1\\A2_Better_MakingALargeIsland.java"
+                    ],
+    "31/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P3_ReverseANumber\\Revision1\\A1_Brute_ReverseANumber.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P9_InsertionAtTheHeadOfLl\\Revision1\\A1_Brute_InsertionAtTheHeadOfLl.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P1_FindSquareRootOfANumber\\Revision1\\A1_Brute_FindSquareRootOfANumber.java"
+                    ],
+    "30/May/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P6_ImplementStackUsingLinkedlist\\Revision1\\A2_Better_ImplementStackUsingLinkedlist.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P3_FrogJumpWithKDistances\\Revision1\\A2_Better_FrogJumpWithKDistances.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P6_IntersectionOfTwoSortedArrays\\Revision1\\A3_Optimal_IntersectionOfTwoSortedArrays.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P2_MinimumCostToCutTheStick\\Revision1\\A1_Brute_MinimumCostToCutTheStick.java"
+                    ],
+    "29/May/2024":  [
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P1_GridUniquePaths\\Revision1\\A3_Optimal_GridUniquePaths.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P1_BestTimeToBuyAndSellStock\\Revision1\\A3_Optimal_BestTimeToBuyAndSellStock.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P3_MergeSortedLists\\Revision1\\A2_Better_MergeSortedLists.java"
+                    ],
+    "28/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P5_IsomorphicString\\Revision1\\A2_Better_IsomorphicString.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P6_MinimumNumberOfPlatformsRequiredForARailway\\Revision1\\A1_Brute_MinimumNumberOfPlatformsRequiredForARailway.java"
+                    ],
+    "27/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S2_LogicBuildingPatterns\\P2_Hard\\Revision1\\A3_Optimal_Hard.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P21_Pattern21\\Revision1\\A2_Better_Pattern21.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P1_InsertAGivenNodeInBst\\Revision1\\A2_Better_InsertAGivenNodeInBst.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P7_PrintRootToNotePathInBt\\Revision1\\A1_Brute_PrintRootToNotePathInBt.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P1_FindRowWithMaximum1S\\Revision1\\A3_Optimal_FindRowWithMaximum1S.java"
+                    ],
+    "26/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P5_IsomorphicString\\Revision1\\A1_Brute_IsomorphicString.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P7_MergeTwoSortedArraysWithoutExtraSpace\\Revision1\\A1_Brute_MergeTwoSortedArraysWithoutExtraSpace.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P9_FloydWarshallAlgorithm\\Revision1\\A3_Optimal_FloydWarshallAlgorithm.java"
+                    ],
+    "25/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P21_Pattern21\\Revision1\\A1_Brute_Pattern21.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S5_StlAndCollections\\P2_JavaCollections\\Revision1\\A3_Optimal_JavaCollections.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P5_DeleteHeadOfDll\\Revision1\\A3_Optimal_DeleteHeadOfDll.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P3_CountNumberOfNiceSubarrays\\Revision1\\A1_Brute_CountNumberOfNiceSubarrays.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P5_ShortestPathInDag\\Revision1\\A1_Brute_ShortestPathInDag.java",
+                        "all_syllabus\\Level6\\C7_LinkedList\\P2_RemoveDuplicatedFromSortedDll\\Revision1\\A2_Better_RemoveDuplicatedFromSortedDll.java"
+                    ],
+    "24/May/2024":  [
+                        "all_syllabus\\Level2\\C7_LinkedList\\P5_DeleteHeadOfDll\\Revision1\\A2_Better_DeleteHeadOfDll.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P2_MajorityElementIi\\Revision1\\A2_Better_MajorityElementIi.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P9_WildcardMatching\\Revision1\\A2_Better_WildcardMatching.java"
+                    ],
+    "23/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S2_LogicBuildingPatterns\\P2_Hard\\Revision1\\A2_Better_Hard.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P1_CombinationSum\\Revision1\\A3_Optimal_CombinationSum.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P4_PathWithMinimumEffort\\Revision1\\A3_Optimal_PathWithMinimumEffort.java"
+                    ],
+    "22/May/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P3_InorderTraversal\\Revision1\\A2_Better_InorderTraversal.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P5_ReverseALl\\Revision1\\A1_Brute_ReverseALl.java"
+                    ],
+    "21/May/2024":  [
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P5_InsertInterval\\Revision1\\A1_Brute_InsertInterval.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P1_PalindromePartitioning\\Revision1\\A1_Brute_PalindromePartitioning.java"
+                    ],
+    "20/May/2024":  [
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P3_CheckForBalancedBinaryTree\\Revision1\\A3_Optimal_CheckForBalancedBinaryTree.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P8_RemovingGivenNodeInDll\\Revision1\\A1_Brute_RemovingGivenNodeInDll.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P3_BestTimeToBuyAndSellStockIii\\Revision1\\A2_Better_BestTimeToBuyAndSellStockIii.java"
+                    ],
+    "19/May/2024":  [
+                        "all_syllabus\\Level6\\C15_Graphs\\P2_DisjointSet\\Revision1\\A1_Brute_DisjointSet.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P3_FindTheMstWeight\\Revision1\\A2_Better_FindTheMstWeight.java"
+                    ],
+    "18/May/2024":  [
+                        "all_syllabus\\Level1\\C8_BitManipulation\\P1_IntroductionToBitsAndTricks\\Revision1\\A1_Brute_IntroductionToBitsAndTricks.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P2_NumberOfIslands\\Revision1\\A1_Brute_NumberOfIslands.java"
+                    ],
+    "17/May/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P3_ConvertMinHeapToMaxHeap\\Revision1\\A2_Better_ConvertMinHeapToMaxHeap.java",
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P2_LemonadeChange\\Revision1\\A2_Better_LemonadeChange.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P1_SearchInsertPosition\\Revision1\\A2_Better_SearchInsertPosition.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P10_KadaneSAlgorithm\\Revision1\\A3_Optimal_KadaneSAlgorithm.java"
+                    ],
+    "16/May/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P3_ImplementQueueUsingArrays\\Revision1\\A1_Brute_ImplementQueueUsingArrays.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P5_QuickSorting\\Revision1\\A1_Brute_QuickSorting.java",
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P3_JumpGameI\\Revision1\\A2_Better_JumpGameI.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P4_PalindromePartitioningIi\\Revision1\\A3_Optimal_PalindromePartitioningIi.java"
+                    ],
+    "15/May/2024":  [
+                        "all_syllabus\\Level2\\C6_Recursion\\P2_CheckIfThereExistsASubsequenceWithSumK\\Revision1\\A2_Better_CheckIfThereExistsASubsequenceWithSumK.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P3_TrappingRainwater\\Revision1\\A3_Optimal_TrappingRainwater.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P4_LargestRectangleInAHistogram\\Revision1\\A1_Brute_LargestRectangleInAHistogram.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P10_KadaneSAlgorithm\\Revision1\\A1_Brute_KadaneSAlgorithm.java"
+                    ],
+    "14/May/2024":  [
+                        "all_syllabus\\Level5\\C15_Graphs\\P7_NumberOfWaysToArriveAtDestination\\Revision1\\A1_Brute_NumberOfWaysToArriveAtDestination.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P8_TargetSum\\Revision1\\A1_Brute_TargetSum.java",
+                        "all_syllabus\\Level6\\C7_LinkedList\\P2_RemoveDuplicatedFromSortedDll\\Revision1\\A1_Brute_RemoveDuplicatedFromSortedDll.java"
+                    ],
+    "13/May/2024":  [
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P3_SingleNumberIi\\Revision1\\A2_Better_SingleNumberIi.java"
+                    ],
+    "12/May/2024":  [
+                        "all_syllabus\\Level2\\C17_Tries\\P1_LongestWordWithAllPrefixes\\Revision1\\A1_Brute_LongestWordWithAllPrefixes.java"
+                    ],
+    "11/May/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P3_ImplementQueueUsingArrays\\Revision1\\A3_Optimal_ImplementQueueUsingArrays.java",
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P8_BalancedParanthesis\\Revision1\\A1_Brute_BalancedParanthesis.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P9_SortAnArrayOf0S1SAnd2S\\Revision1\\A3_Optimal_SortAnArrayOf0S1SAnd2S.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P3_MinimumPathSumInGrid\\Revision1\\A2_Better_MinimumPathSumInGrid.java"
+                    ],
+    "10/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P3_BasicHashing\\Revision1\\A2_Better_BasicHashing.java"
+                    ],
+    "09/May/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P1_ImplementPqUsingHeaps\\Revision1\\A2_Better_ImplementPqUsingHeaps.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P1_NumberOfProvinces\\Revision1\\A3_Optimal_NumberOfProvinces.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P3_FrogJumpWithKDistances\\Revision1\\A3_Optimal_FrogJumpWithKDistances.java"
+                    ],
+    "08/May/2024":  [
+                        "all_syllabus\\Level3\\C3_Arrays\\P8_4Sum\\Revision1\\A2_Better_4Sum.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P5_ReversePairs\\Revision1\\A1_Brute_ReversePairs.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P2_BookAllocationProblem\\Revision1\\A3_Optimal_BookAllocationProblem.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P1_BestTimeToBuyAndSellStock\\Revision1\\A2_Better_BestTimeToBuyAndSellStock.java"
+                    ],
+    "07/May/2024":  [
+                        "all_syllabus\\Level1\\C16_DynamicProgramming\\P1_IntroductionToDp\\Revision1\\A2_Better_IntroductionToDp.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P5_JavaOopsBasic\\Revision1\\A2_Better_JavaOopsBasic.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P1_HighestOccurringElementInAnArray\\Revision1\\A3_Optimal_HighestOccurringElementInAnArray.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P4_RemoveNthNodeFromTheBackOfTheLl\\Revision1\\A3_Optimal_RemoveNthNodeFromTheBackOfTheLl.java"
+                    ],
+    "06/May/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P1_ImplementationUsingDifferentDs\\Revision1\\A1_Brute_ImplementationUsingDifferentDs.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P3_FindTheIntersectionPointOfYLl\\Revision1\\A2_Better_FindTheIntersectionPointOfYLl.java"
+                    ],
+    "05/May/2024":  [
+                        "all_syllabus\\Level1\\C2_Sorting\\P3_InsertionSorting\\Revision1\\A3_Optimal_InsertionSorting.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P12_InsertionBeforeTheValueXInLl\\Revision1\\A3_Optimal_InsertionBeforeTheValueXInLl.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P3_SubsetsI\\Revision1\\A1_Brute_SubsetsI.java"
+                    ],
+    "04/May/2024":  [
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P2_ZFunction\\Revision1\\A2_Better_ZFunction.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P8_TargetSum\\Revision1\\A3_Optimal_TargetSum.java"
+                    ],
+    "03/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P4_BasicString\\Revision1\\A1_Brute_BasicString.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P4_NonOverlappingIntervals\\Revision1\\A2_Better_NonOverlappingIntervals.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P1_FindSquareRootOfANumber\\Revision1\\A2_Better_FindSquareRootOfANumber.java"
+                    ],
+    "02/May/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P7_ValidAnagram\\Revision1\\A3_Optimal_ValidAnagram.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P10_FindTheCityWithTheSmallestNumberOfNeighbors\\Revision1\\A2_Better_FindTheCityWithTheSmallestNumberOfNeighbors.java"
+                    ],
+    "30/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P4_LongestCommonPrefix\\Revision1\\A2_Better_LongestCommonPrefix.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P3_InsertionSorting\\Revision1\\A1_Brute_InsertionSorting.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P7_SurroundedRegions\\Revision1\\A2_Better_SurroundedRegions.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P7_XorOfNumbersInAGivenRange\\Revision1\\A3_Optimal_XorOfNumbersInAGivenRange.java"
+                    ],
+    "29/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P5_Pattern5\\Revision1\\A3_Optimal_Pattern5.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P5_SumOfSubarrayRanges\\Revision1\\A3_Optimal_SumOfSubarrayRanges.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P7_DeleteKthElementOfDll\\Revision1\\A3_Optimal_DeleteKthElementOfDll.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P4_FindPeakElement\\Revision1\\A1_Brute_FindPeakElement.java"
+                    ],
+    "28/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P3_JavaSetup\\Revision1\\A1_Brute_JavaSetup.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P8_IfElseif\\Revision1\\A2_Better_IfElseif.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P2_SlidingWindowMaximum\\Revision1\\A2_Better_SlidingWindowMaximum.java"
+                    ],
+    "27/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P3_LargestOddNumberInAString\\Revision1\\A2_Better_LargestOddNumberInAString.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P6_MinimumMultiplicationsToReachEnd\\Revision1\\A3_Optimal_MinimumMultiplicationsToReachEnd.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P6_MColoringProblem\\Revision1\\A2_Better_MColoringProblem.java"
+                    ],
+    "26/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P1_BasicMaths\\Revision1\\A1_Brute_BasicMaths.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P8_NumberOfDistinctIslands\\Revision1\\A1_Brute_NumberOfDistinctIslands.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P4_PathWithMinimumEffort\\Revision1\\A2_Better_PathWithMinimumEffort.java"
+                    ],
+    "25/Apr/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P6_ImplementStackUsingLinkedlist\\Revision1\\A1_Brute_ImplementStackUsingLinkedlist.java",
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P2_SearchInBst\\Revision1\\A1_Brute_SearchInBst.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P4_JavaBasics\\Revision1\\A3_Optimal_JavaBasics.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P4_CountSubarraysWithGivenXorK\\Revision1\\A1_Brute_CountSubarraysWithGivenXorK.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P4_KokoEatingBananas\\Revision1\\A1_Brute_KokoEatingBananas.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P2_UniquePathsIi\\Revision1\\A2_Better_UniquePathsIi.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P9_FloydWarshallAlgorithm\\Revision1\\A2_Better_FloydWarshallAlgorithm.java"
+                    ],
+    "24/Apr/2024":  [
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P4_TopViewOfBt\\Revision1\\A2_Better_TopViewOfBt.java"
+                    ],
+    "23/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P8_SortCharactersByFrequency\\Revision1\\A3_Optimal_SortCharactersByFrequency.java"
+                    ],
+    "21/Apr/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P6_DeletionOfTheTailOfLl\\Revision1\\A1_Brute_DeletionOfTheTailOfLl.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P8_LruCache\\Revision1\\A1_Brute_LruCache.java"
+                    ],
+    "20/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P10_Pattern10\\Revision1\\A3_Optimal_Pattern10.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P2_DeletionInDoublyLl\\Revision1\\A1_Brute_DeletionInDoublyLl.java"
+                    ],
+    "19/Apr/2024":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P2_SearchInBst\\Revision1\\A2_Better_SearchInBst.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P1_DetectACycleInAnUndirectedGraph\\Revision1\\A2_Better_DetectACycleInAnUndirectedGraph.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P2_FindNthRootOfANumber\\Revision1\\A1_Brute_FindNthRootOfANumber.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P3_SortALlOf0S1SAnd2S\\Revision1\\A1_Brute_SortALlOf0S1SAnd2S.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P4_PathWithMinimumEffort\\Revision1\\A1_Brute_PathWithMinimumEffort.java"
+                    ],
+    "18/Apr/2024":  [
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P2_MaxConsecutiveOnesIii\\Revision1\\A3_Optimal_MaxConsecutiveOnesIii.java"
+                    ],
+    "17/Apr/2024":  [
+                        "all_syllabus\\Level4\\C7_LinkedList\\P1_AddOneToANumberRepresentedByLl\\Revision1\\A2_Better_AddOneToANumberRepresentedByLl.java"
+                    ],
+    "16/Apr/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P4_KThLargestElementInAnArray\\Revision1\\A3_Optimal_KThLargestElementInAnArray.java",
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P3_JumpGameI\\Revision1\\A3_Optimal_JumpGameI.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P4_NumberOfEnclaves\\Revision1\\A2_Better_NumberOfEnclaves.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P6_MinimumWindowSubstring\\Revision1\\A1_Brute_MinimumWindowSubstring.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P3_MinimumPathSumInGrid\\Revision1\\A1_Brute_MinimumPathSumInGrid.java"
+                    ],
+    "15/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P4_LongestCommonPrefix\\Revision1\\A1_Brute_LongestCommonPrefix.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P12_FibonacciNumber\\Revision1\\A3_Optimal_FibonacciNumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P7_CheckIfStringIsPalindromeOrNot\\Revision1\\A2_Better_CheckIfStringIsPalindromeOrNot.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P5_HouseRobber\\Revision1\\A2_Better_HouseRobber.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P2_JobSequencingProblem\\Revision1\\A1_Brute_JobSequencingProblem.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P5_MatrixMedian\\Revision1\\A1_Brute_MatrixMedian.java"
+                    ],
+    "14/Apr/2024":  [
+                        "all_syllabus\\Level2\\C3_Arrays\\P3_FindMissingNumber\\Revision1\\A2_Better_FindMissingNumber.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P8_4Sum\\Revision1\\A1_Brute_4Sum.java"
+                    ],
+    "13/Apr/2024":  [
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P6_ConstructABstFromAPreorderTraversal\\Revision1\\A2_Better_ConstructABstFromAPreorderTraversal.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P2_BoundaryTraversal\\Revision1\\A1_Brute_BoundaryTraversal.java",
+                        "all_syllabus\\Level3\\C16_DynamicProgramming\\P1_NinjaSTraining\\Revision1\\A2_Better_NinjaSTraining.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P1_CombinationSum\\Revision1\\A2_Better_CombinationSum.java"
+                    ],
+    "11/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P6_InputOutput\\Revision1\\A3_Optimal_InputOutput.java",
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P3_UpperBound\\Revision1\\A2_Better_UpperBound.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P5_RottenOranges\\Revision1\\A1_Brute_RottenOranges.java"
+                    ],
+    "10/Apr/2024":  [
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P2_BestTimeToBuyAndSellStockIi\\Revision1\\A1_Brute_BestTimeToBuyAndSellStockIi.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P1_MstTheory\\Revision1\\A2_Better_MstTheory.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P10_UnboundedKnapsack\\Revision1\\A2_Better_UnboundedKnapsack.java"
+                    ],
+    "09/Apr/2024":  [
+                        "all_syllabus\\Level1\\C17_Tries\\P2_TrieImplementationAndAdvancedOperations\\Revision1\\A3_Optimal_TrieImplementationAndAdvancedOperations.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P8_CheckIfANumberIsPrimeOrNot\\Revision1\\A3_Optimal_CheckIfANumberIsPrimeOrNot.java",
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P1_SearchXInSortedArray\\Revision1\\A2_Better_SearchXInSortedArray.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P1_IntroductionToDoublyLl\\Revision1\\A2_Better_IntroductionToDoublyLl.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P2_TwoSumInBst\\Revision1\\A1_Brute_TwoSumInBst.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P7_3Sum\\Revision1\\A1_Brute_3Sum.java"
+                    ],
+    "08/Apr/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P2_CheckIfAnArrayRepresentsAMinHeap\\Revision1\\A3_Optimal_CheckIfAnArrayRepresentsAMinHeap.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P1_SumOfArrayElements\\Revision1\\A3_Optimal_SumOfArrayElements.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P3_CountSubarraysWithGivenSum\\Revision1\\A2_Better_CountSubarraysWithGivenSum.java"
+                    ],
+    "07/Apr/2024":  [
+                        "all_syllabus\\Level1\\C6_Recursion\\P1_PowXN\\Revision1\\A1_Brute_PowXN.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P2_NextGreaterElement2\\Revision1\\A1_Brute_NextGreaterElement2.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P10_InsertNodeBeforeTailInDll\\Revision1\\A2_Better_InsertNodeBeforeTailInDll.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P7_PrintRootToNotePathInBt\\Revision1\\A3_Optimal_PrintRootToNotePathInBt.java"
+                    ],
+    "06/Apr/2024":  [
+                        "all_syllabus\\Level1\\C18_StringsAdvancedAlgo\\P1_ReverseEveryWordInAString\\Revision1\\A3_Optimal_ReverseEveryWordInAString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P3_SumOfFirstNNumbers\\Revision1\\A3_Optimal_SumOfFirstNNumbers.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P3_JavaSetup\\Revision1\\A3_Optimal_JavaSetup.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P1_MinimumBitFlipsToConvertNumber\\Revision1\\A2_Better_MinimumBitFlipsToConvertNumber.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P10_PrintAllNodesAtADistanceOfKInBt\\Revision1\\A3_Optimal_PrintAllNodesAtADistanceOfKInBt.java"
+                    ],
+    "04/Apr/2024":  [
+                        "all_syllabus\\Level1\\C3_Arrays\\P6_LeftRotateArray\\Revision1\\A2_Better_LeftRotateArray.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P1_IntroductionToSinglyLinkedlist\\Revision1\\A2_Better_IntroductionToSinglyLinkedlist.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P1_SearchInsertPosition\\Revision1\\A1_Brute_SearchInsertPosition.java"
+                    ],
+    "03/Apr/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P3_SumOfHighestAndLowestFrequency\\Revision1\\A3_Optimal_SumOfHighestAndLowestFrequency.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P2_LongestSubarrayWithSumK\\Revision1\\A2_Better_LongestSubarrayWithSumK.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P3_AsteroidCollision\\Revision1\\A2_Better_AsteroidCollision.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P1_KosarajuSAlgorithm\\Revision1\\A2_Better_KosarajuSAlgorithm.java"
+                    ],
+    "01/Apr/2024":  [
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P1_RequirementsNeededToConstructAUniqueBt\\Revision1\\A2_Better_RequirementsNeededToConstructAUniqueBt.java",
+                        "all_syllabus\\Level4\\C6_Recursion\\P1_LetterCombinationsOfAPhoneNumber\\Revision1\\A3_Optimal_LetterCombinationsOfAPhoneNumber.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P4_CountSubsetsWithSumK\\Revision1\\A1_Brute_CountSubsetsWithSumK.java"
+                    ],
+    "31/Mar/2024":  [
+                        "all_syllabus\\Level5\\C13_BinaryTrees\\P1_MorrisInorderTraversal\\Revision1\\A3_Optimal_MorrisInorderTraversal.java"
+                    ],
+    "30/Mar/2024":  [
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P1_AssignCookies\\Revision1\\A1_Brute_AssignCookies.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P4_CheckIfATreeIsABstOrNot\\Revision1\\A1_Brute_CheckIfATreeIsABstOrNot.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P11_InsertNodeBeforeKthNodeInDll\\Revision1\\A3_Optimal_InsertNodeBeforeKthNodeInDll.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P2_WordSearch\\Revision1\\A2_Better_WordSearch.java"
+                    ],
+    "29/Mar/2024":  [
+                        "all_syllabus\\Level3\\C3_Arrays\\P1_LeadersInAnArray\\Revision1\\A2_Better_LeadersInAnArray.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P1_MatrixChainMultiplication\\Revision1\\A2_Better_MatrixChainMultiplication.java"
+                    ],
+    "28/Mar/2024":  [
+                        "all_syllabus\\Level2\\C17_Tries\\P2_NumberOfDistinctSubstringsInAString\\Revision1\\A3_Optimal_NumberOfDistinctSubstringsInAString.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P1_ShortestJobFirst\\Revision1\\A2_Better_ShortestJobFirst.java"
+                    ],
+    "27/Mar/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P5_ImplementQueueUsingStack\\Revision1\\A3_Optimal_ImplementQueueUsingStack.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P6_RotateString\\Revision1\\A1_Brute_RotateString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P6_ReverseAString\\Revision1\\A1_Brute_ReverseAString.java",
+                        "all_syllabus\\Level1\\C6_Recursion\\P3_PowerSet\\Revision1\\A2_Better_PowerSet.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P3_KthLargestElementInAStreamOfRunningIntegers\\Revision1\\A3_Optimal_KthLargestElementInAStreamOfRunningIntegers.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P6_MinimumWindowSubstring\\Revision1\\A2_Better_MinimumWindowSubstring.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P4_Triangle\\Revision1\\A2_Better_Triangle.java"
+                    ],
+    "26/Mar/2024":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P1_IntroductionToBst\\Revision1\\A3_Optimal_IntroductionToBst.java",
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P1_AssignCookies\\Revision1\\A3_Optimal_AssignCookies.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P1_DetectACycleInAnUndirectedGraph\\Revision1\\A1_Brute_DetectACycleInAnUndirectedGraph.java",
+                        "all_syllabus\\Level3\\C9_GreedyAlgorithms\\P2_Candy\\Revision1\\A3_Optimal_Candy.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P5_BestTimeToBuyAndSellStockWithCooldownAndTransactionFees\\Revision1\\A1_Brute_BestTimeToBuyAndSellStockWithCooldownAndTransactionFees.java"
+                    ],
+    "24/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P20_Pattern20\\Revision1\\A1_Brute_Pattern20.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P5_BottomViewOfBt\\Revision1\\A2_Better_BottomViewOfBt.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P5_CherryPickupIi\\Revision1\\A2_Better_CherryPickupIi.java"
+                    ],
+    "23/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P3_SumOfFirstNNumbers\\Revision1\\A1_Brute_SumOfFirstNNumbers.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P2_Pattern2\\Revision1\\A1_Brute_Pattern2.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P5_MinimumDaysToMakeMBouquets\\Revision1\\A1_Brute_MinimumDaysToMakeMBouquets.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P1_LongestCommonSubsequence\\Revision1\\A3_Optimal_LongestCommonSubsequence.java"
+                    ],
+    "22/Mar/2024":  [
+                        "all_syllabus\\Level1\\C3_Arrays\\P1_LinearSearch\\Revision1\\A3_Optimal_LinearSearch.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P4_FindMedianFromDataStream\\Revision1\\A3_Optimal_FindMedianFromDataStream.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P5_ShortestPathInDag\\Revision1\\A2_Better_ShortestPathInDag.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P5_MinimiseMaxDistanceToGasStations\\Revision1\\A1_Brute_MinimiseMaxDistanceToGasStations.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P6_LengthOfLoopInLl\\Revision1\\A2_Better_LengthOfLoopInLl.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P7_SudokoSolver\\Revision1\\A1_Brute_SudokoSolver.java"
+                    ],
+    "21/Mar/2024":  [
+                        "all_syllabus\\Level1\\C17_Tries\\P1_TrieImplementationAndOperations\\Revision1\\A1_Brute_TrieImplementationAndOperations.java"
+                    ],
+    "20/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P10_CountOfPrimeNumbersTillN\\Revision1\\A3_Optimal_CountOfPrimeNumbersTillN.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P5_HouseRobber\\Revision1\\A3_Optimal_HouseRobber.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P3_CorrectBstWithTwoNodesSwapped\\Revision1\\A2_Better_CorrectBstWithTwoNodesSwapped.java"
+                    ],
+    "19/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S5_StlAndCollections\\P1_Stl\\Revision1\\A3_Optimal_Stl.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P9_MaximumWidthOfBt\\Revision1\\A2_Better_MaximumWidthOfBt.java",
+                        "all_syllabus\\Level4\\C6_Recursion\\P1_LetterCombinationsOfAPhoneNumber\\Revision1\\A2_Better_LetterCombinationsOfAPhoneNumber.java"
+                    ],
+    "18/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P18_Pattern18\\Revision1\\A1_Brute_Pattern18.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P2_SecondHighestOccurringElement\\Revision1\\A3_Optimal_SecondHighestOccurringElement.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P1_SelectionSort\\Revision1\\A2_Better_SelectionSort.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P2_NumberOfOperationsToMakeNetworkConnected\\Revision1\\A3_Optimal_NumberOfOperationsToMakeNetworkConnected.java"
+                    ],
+    "17/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S5_StlAndCollections\\P1_Stl\\Revision1\\A2_Better_Stl.java",
+                        "all_syllabus\\Level2\\C10_SlidingWindowAnd2Pointer\\P1_MaximumPointsYouCanObtainFromCards\\Revision1\\A1_Brute_MaximumPointsYouCanObtainFromCards.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P1_NumberOfProvinces\\Revision1\\A2_Better_NumberOfProvinces.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P3_NQueen\\Revision1\\A1_Brute_NQueen.java"
+                    ],
+    "16/Mar/2024":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P1_IntroductionToBst\\Revision1\\A2_Better_IntroductionToBst.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P5_SumOfSubarrayRanges\\Revision1\\A1_Brute_SumOfSubarrayRanges.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P4_SearchInRotatedSortedArrayI\\Revision1\\A1_Brute_SearchInRotatedSortedArrayI.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P10_InsertNodeBeforeTailInDll\\Revision1\\A3_Optimal_InsertNodeBeforeTailInDll.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P7_NumberOfWaysToArriveAtDestination\\Revision1\\A3_Optimal_NumberOfWaysToArriveAtDestination.java"
+                    ],
+    "15/Mar/2024":  [
+                        "all_syllabus\\Level4\\C15_Graphs\\P2_CourseScheduleI\\Revision1\\A3_Optimal_CourseScheduleI.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P2_SearchInA2dMatrix\\Revision1\\A1_Brute_SearchInA2dMatrix.java"
+                    ],
+    "14/Mar/2024":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P1_PrintAllPrimesTillN\\Revision1\\A2_Better_PrintAllPrimesTillN.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P7_Pattern7\\Revision1\\A2_Better_Pattern7.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P5_MaximumSumCombination\\Revision1\\A1_Brute_MaximumSumCombination.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P2_CombinationSumIi\\Revision1\\A2_Better_CombinationSumIi.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P4_DetectALoopInLl\\Revision1\\A3_Optimal_DetectALoopInLl.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P4_FlatteningOfLl\\Revision1\\A3_Optimal_FlatteningOfLl.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P6_CloneALlWithRandomAndNextPointer\\Revision1\\A3_Optimal_CloneALlWithRandomAndNextPointer.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P1_SubsetSumEqualsToTarget\\Revision1\\A1_Brute_SubsetSumEqualsToTarget.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P2_PartitionEqualSubsetSum\\Revision1\\A2_Better_PartitionEqualSubsetSum.java"
+                    ],
+    "13/Mar/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P6_PrePostInorderInOneTraversal\\Revision1\\A3_Optimal_PrePostInorderInOneTraversal.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P5_QuickSorting\\Revision1\\A2_Better_QuickSorting.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P1_LongestSubstringWithoutRepeatingCharacters\\Revision1\\A2_Better_LongestSubstringWithoutRepeatingCharacters.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P10_FindTheCityWithTheSmallestNumberOfNeighbors\\Revision1\\A3_Optimal_FindTheCityWithTheSmallestNumberOfNeighbors.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P5_MinimumInsertionsOrDeletionsToConvertStringAToB\\Revision1\\A2_Better_MinimumInsertionsOrDeletionsToConvertStringAToB.java"
+                    ],
+    "12/Mar/2024":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P3_CountPrimesInRangeLToR\\Revision1\\A3_Optimal_CountPrimesInRangeLToR.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P4_Pattern4\\Revision1\\A1_Brute_Pattern4.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P2_NumberOfDistinctSubstringsInAString\\Revision1\\A2_Better_NumberOfDistinctSubstringsInAString.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P8_WordLadderIi\\Revision1\\A3_Optimal_WordLadderIi.java"
+                    ],
+    "11/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P12_LcmOfTwoNumbers\\Revision1\\A2_Better_LcmOfTwoNumbers.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P6_DistanceOfNearestCellHavingOne\\Revision1\\A1_Brute_DistanceOfNearestCellHavingOne.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P5_LongestRepeatingCharacterReplacement\\Revision1\\A3_Optimal_LongestRepeatingCharacterReplacement.java"
+                    ],
+    "10/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P17_Pattern17\\Revision1\\A1_Brute_Pattern17.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P5_DivideTwoNumbersWithoutMultiplicationAndDivision\\Revision1\\A2_Better_DivideTwoNumbersWithoutMultiplicationAndDivision.java"
+                    ],
+    "09/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P1_RecursionTheory\\Revision1\\A1_Brute_RecursionTheory.java",
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P3_UpperBound\\Revision1\\A1_Brute_UpperBound.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P4_TopViewOfBt\\Revision1\\A3_Optimal_TopViewOfBt.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P2_PrintTheMatrixInSpiralManner\\Revision1\\A2_Better_PrintTheMatrixInSpiralManner.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P6_MinimumMultiplicationsToReachEnd\\Revision1\\A2_Better_MinimumMultiplicationsToReachEnd.java"
+                    ],
+    "08/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P1_HighestOccurringElementInAnArray\\Revision1\\A1_Brute_HighestOccurringElementInAnArray.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P4_FindMedianFromDataStream\\Revision1\\A1_Brute_FindMedianFromDataStream.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P7_SurroundedRegions\\Revision1\\A3_Optimal_SurroundedRegions.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P9_InsertNodeBeforeHeadInDll\\Revision1\\A2_Better_InsertNodeBeforeHeadInDll.java"
+                    ],
+    "07/Mar/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P4_ImplementStackUsingQueue\\Revision1\\A3_Optimal_ImplementStackUsingQueue.java"
+                    ],
+    "06/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P16_Pattern16\\Revision1\\A3_Optimal_Pattern16.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P6_PowerSetDup\\Revision1\\A3_Optimal_PowerSetDup.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P5_MaximumRectangles\\Revision1\\A3_Optimal_MaximumRectangles.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P3_VerticalOrderTraversal\\Revision1\\A2_Better_VerticalOrderTraversal.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P6_ShortestPathInUndirectedGraphWithUnitWeights\\Revision1\\A1_Brute_ShortestPathInUndirectedGraphWithUnitWeights.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P4_FlatteningOfLl\\Revision1\\A2_Better_FlatteningOfLl.java"
+                    ],
+    "05/Mar/2024":  [
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P6_RemoveKDigits\\Revision1\\A1_Brute_RemoveKDigits.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P6_RemoveKDigits\\Revision1\\A2_Better_RemoveKDigits.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P6_CheckForSymmetricalBts\\Revision1\\A2_Better_CheckForSymmetricalBts.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P1_RabinKarpAlgorithm\\Revision1\\A1_Brute_RabinKarpAlgorithm.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P2_SearchInA2dMatrix\\Revision1\\A3_Optimal_SearchInA2dMatrix.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P2_LongestCommonSubstring\\Revision1\\A1_Brute_LongestCommonSubstring.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P8_EditDistance\\Revision1\\A3_Optimal_EditDistance.java"
+                    ],
+    "04/Mar/2024":  [
+                        "all_syllabus\\Level1\\C4_Hashing\\P1_LongestConsecutiveSequenceInAnArray\\Revision1\\A2_Better_LongestConsecutiveSequenceInAnArray.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P3_SubsetsI\\Revision1\\A2_Better_SubsetsI.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P4_RatInAMaze\\Revision1\\A2_Better_RatInAMaze.java"
+                    ],
+    "03/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P9_ReverseAnArray\\Revision1\\A1_Brute_ReverseAnArray.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P11_Pattern11\\Revision1\\A1_Brute_Pattern11.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P3_SecondLargestElement\\Revision1\\A1_Brute_SecondLargestElement.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P10_InsertionAtTheTailOfLl\\Revision1\\A2_Better_InsertionAtTheTailOfLl.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P6_DeletionOfTheTailOfLl\\Revision1\\A3_Optimal_DeletionOfTheTailOfLl.java"
+                    ],
+    "02/Mar/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P13_Pattern13\\Revision1\\A1_Brute_Pattern13.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P4_CheckIfTheArrayIsSorted\\Revision1\\A3_Optimal_CheckIfTheArrayIsSorted.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P6_ConstructABstFromAPreorderTraversal\\Revision1\\A3_Optimal_ConstructABstFromAPreorderTraversal.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P3_MinimumPathSumInGrid\\Revision1\\A3_Optimal_MinimumPathSumInGrid.java"
+                    ],
+    "01/Mar/2024":  [
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P6_CheckForSymmetricalBts\\Revision1\\A3_Optimal_CheckForSymmetricalBts.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P2_DeletionInDoublyLl\\Revision1\\A2_Better_DeletionInDoublyLl.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P5_MaximumRectangles\\Revision1\\A1_Brute_MaximumRectangles.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P6_MaximumProductSubarrayInAnArray\\Revision1\\A2_Better_MaximumProductSubarrayInAnArray.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P2_LongestCommonSubstring\\Revision1\\A2_Better_LongestCommonSubstring.java"
+                    ],
+    "29/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P3_LargestOddNumberInAString\\Revision1\\A3_Optimal_LargestOddNumberInAString.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P1_LongestConsecutiveSequenceInAnArray\\Revision1\\A3_Optimal_LongestConsecutiveSequenceInAnArray.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P3_MaximumXorOfTwoNumbersInAnArray\\Revision1\\A1_Brute_MaximumXorOfTwoNumbersInAnArray.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P3_MaximumXorOfTwoNumbersInAnArray\\Revision1\\A3_Optimal_MaximumXorOfTwoNumbersInAnArray.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P9_CoinChangeIi\\Revision1\\A3_Optimal_CoinChangeIi.java"
+                    ],
+    "28/Feb/2024":  [
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P2_BinarySubarraysWithSum\\Revision1\\A1_Brute_BinarySubarraysWithSum.java"
+                    ],
+    "27/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P18_Pattern18\\Revision1\\A2_Better_Pattern18.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P11_InsertionAtTheKthPositionOfLl\\Revision1\\A2_Better_InsertionAtTheKthPositionOfLl.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P2_NextGreaterElement2\\Revision1\\A3_Optimal_NextGreaterElement2.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P11_MinimumTimeTakenToBurnTheBtFromAGivenNode\\Revision1\\A3_Optimal_MinimumTimeTakenToBurnTheBtFromAGivenNode.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P3_BurstBalloons\\Revision1\\A3_Optimal_BurstBalloons.java"
+                    ],
+    "26/Feb/2024":  [
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P3_FirstAndLastOccurrence\\Revision1\\A3_Optimal_FirstAndLastOccurrence.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P6_MinimumNumberOfPlatformsRequiredForARailway\\Revision1\\A3_Optimal_MinimumNumberOfPlatformsRequiredForARailway.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P9_MaximumWidthOfBt\\Revision1\\A3_Optimal_MaximumWidthOfBt.java"
+                    ],
+    "25/Feb/2024":  [
+                        "all_syllabus\\Level1\\C3_Arrays\\P5_LeftRotateArrayByOne\\Revision1\\A2_Better_LeftRotateArrayByOne.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P4_SubsetsIi\\Revision1\\A3_Optimal_SubsetsIi.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P3_FindTheRepeatingAndMissingNumber\\Revision1\\A1_Brute_FindTheRepeatingAndMissingNumber.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P6_MColoringProblem\\Revision1\\A3_Optimal_MColoringProblem.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P5_MakingALargeIsland\\Revision1\\A3_Optimal_MakingALargeIsland.java"
+                    ],
+    "24/Feb/2024":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P4_InsertionInLinkedList\\Revision1\\A1_Brute_InsertionInLinkedList.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P7_DeletionOfTheKthElementOfLl\\Revision1\\A2_Better_DeletionOfTheKthElementOfLl.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P7_CelebrityProblem\\Revision1\\A2_Better_CelebrityProblem.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P1_NumberOfSubstringsContainingAllThreeCharacters\\Revision1\\A3_Optimal_NumberOfSubstringsContainingAllThreeCharacters.java"
+                    ],
+    "23/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P1_Pattern1\\Revision1\\A2_Better_Pattern1.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P2_CountNumberOfOddDigitsInANumber\\Revision1\\A2_Better_CountNumberOfOddDigitsInANumber.java"
+                    ],
+    "22/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P3_JavaSetup\\Revision1\\A2_Better_JavaSetup.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P2_DesignTwitter\\Revision1\\A2_Better_DesignTwitter.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P1_DijkstraSAlgorithm\\Revision1\\A3_Optimal_DijkstraSAlgorithm.java"
+                    ],
+    "21/Feb/2024":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P3_FloorAndCeilInABst\\Revision1\\A1_Brute_FloorAndCeilInABst.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P2_LongestSubarrayWithSumK\\Revision1\\A3_Optimal_LongestSubarrayWithSumK.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P2_BestTimeToBuyAndSellStockIi\\Revision1\\A3_Optimal_BestTimeToBuyAndSellStockIi.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P6_MostStonesRemovedWithSameRowOrColumn\\Revision1\\A1_Brute_MostStonesRemovedWithSameRowOrColumn.java"
+                    ],
+    "20/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P5_SumOfArrayElements\\Revision1\\A2_Better_SumOfArrayElements.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P2_MaxConsecutiveOnesIii\\Revision1\\A1_Brute_MaxConsecutiveOnesIii.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P3_SubsetsI\\Revision1\\A3_Optimal_SubsetsI.java"
+                    ],
+    "19/Feb/2024":  [
+                        "all_syllabus.json",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P5_SumOfArrayElements\\Revision1\\A1_Brute_SumOfArrayElements.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P4_PalindromeNumber\\Revision1\\A1_Brute_PalindromeNumber.java"
+                    ],
+    "18/Feb/2024":  [
+                        "all_syllabus\\Level2\\C3_Arrays\\P1_MoveZerosToEnd\\Revision1\\A1_Brute_MoveZerosToEnd.java"
+                    ],
+    "17/Feb/2024":  [
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P2_NextGreaterElement2\\Revision1\\A2_Better_NextGreaterElement2.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P1_RabinKarpAlgorithm\\Revision1\\A3_Optimal_RabinKarpAlgorithm.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P123_SplitArrayLargestSum\\Revision1\\A2_Better_SplitArrayLargestSum.java"
+                    ],
+    "16/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S4_TimeComplexity\\P1_TheoryWithExamples\\Revision1\\A1_Brute_TheoryWithExamples.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P6_DistanceOfNearestCellHavingOne\\Revision1\\A3_Optimal_DistanceOfNearestCellHavingOne.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P4_ConvertArrayToDll\\Revision1\\A3_Optimal_ConvertArrayToDll.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P8_RemovingGivenNodeInDll\\Revision1\\A2_Better_RemovingGivenNodeInDll.java"
+                    ],
+    "15/Feb/2024":  [
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P1_ShortestJobFirst\\Revision1\\A1_Brute_ShortestJobFirst.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P4_NumberOfIslandsIi\\Revision1\\A2_Better_NumberOfIslandsIi.java"
+                    ],
+    "14/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P10_CheckIfTheArrayIsSorted\\Revision1\\A1_Brute_CheckIfTheArrayIsSorted.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P2_CourseScheduleI\\Revision1\\A2_Better_CourseScheduleI.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P2_UniquePathsIi\\Revision1\\A1_Brute_UniquePathsIi.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P3_FindTheMstWeight\\Revision1\\A1_Brute_FindTheMstWeight.java"
+                    ],
+    "13/Feb/2024":  [
+                        "all_syllabus\\Level1\\C3_Arrays\\P6_LeftRotateArray\\Revision1\\A1_Brute_LeftRotateArray.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P8_SingleElementInSortedArray\\Revision1\\A2_Better_SingleElementInSortedArray.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P4_SerializeAndDeSerializeBt\\Revision1\\A3_Optimal_SerializeAndDeSerializeBt.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P1_PalindromePartitioning\\Revision1\\A2_Better_PalindromePartitioning.java"
+                    ],
+    "12/Feb/2024":  [
+                        "all_syllabus\\Level1\\C18_StringsAdvancedAlgo\\P3_CountAndSay\\Revision1\\A2_Better_CountAndSay.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S5_StlAndCollections\\P2_JavaCollections\\Revision1\\A2_Better_JavaCollections.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P5_DeletionOfTheHeadOfLl\\Revision1\\A3_Optimal_DeletionOfTheHeadOfLl.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P5_SumOfSubarrayRanges\\Revision1\\A2_Better_SumOfSubarrayRanges.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P3_NMeetingsInOneRoom\\Revision1\\A3_Optimal_NMeetingsInOneRoom.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P11_MinimumTimeTakenToBurnTheBtFromAGivenNode\\Revision1\\A2_Better_MinimumTimeTakenToBurnTheBtFromAGivenNode.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P6_MinimumMultiplicationsToReachEnd\\Revision1\\A1_Brute_MinimumMultiplicationsToReachEnd.java"
+                    ],
+    "11/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P7_CheckIfStringIsPalindromeOrNot\\Revision1\\A1_Brute_CheckIfStringIsPalindromeOrNot.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P13_DivisorsOfANumber\\Revision1\\A2_Better_DivisorsOfANumber.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P4_MaximumConsecutiveOnes\\Revision1\\A1_Brute_MaximumConsecutiveOnes.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P2_SingleNumberI\\Revision1\\A2_Better_SingleNumberI.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P5_MaximumRectangles\\Revision1\\A2_Better_MaximumRectangles.java"
+                    ],
+    "10/Feb/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P5_LevelOrderTraversal\\Revision1\\A2_Better_LevelOrderTraversal.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P10_SumOfFirstLastElementInArray\\Revision1\\A1_Brute_SumOfFirstLastElementInArray.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S2_LogicBuildingPatterns\\P1_EasyAndMedium\\Revision1\\A1_Brute_EasyAndMedium.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P4_LongestSubstringWithAtMostKDistinctCharacters\\Revision1\\A3_Optimal_LongestSubstringWithAtMostKDistinctCharacters.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P4_BestTimeToBuyAndSellStockIv\\Revision1\\A3_Optimal_BestTimeToBuyAndSellStockIv.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P1_FindRowWithMaximum1S\\Revision1\\A1_Brute_FindRowWithMaximum1S.java"
+                    ],
+    "09/Feb/2024":  [
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P2_CheckIfTwoTreesAreIdenticalOrNot\\Revision1\\A1_Brute_CheckIfTwoTreesAreIdenticalOrNot.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P2_WordSearch\\Revision1\\A1_Brute_WordSearch.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P2_LongestCommonSubstring\\Revision1\\A3_Optimal_LongestCommonSubstring.java"
+                    ],
+    "08/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P2_RecursionConceptsWithParameters\\Revision1\\A2_Better_RecursionConceptsWithParameters.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P7_CelebrityProblem\\Revision1\\A1_Brute_CelebrityProblem.java"
+                    ],
+    "07/Feb/2024":  [
+                        "all_syllabus\\Level1\\C18_StringsAdvancedAlgo\\P3_CountAndSay\\Revision1\\A1_Brute_CountAndSay.java"
+                    ],
+    "06/Feb/2024":  [
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P2_CheckIfTwoTreesAreIdenticalOrNot\\Revision1\\A3_Optimal_CheckIfTwoTreesAreIdenticalOrNot.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P5_SortLl\\Revision1\\A3_Optimal_SortLl.java"
+                    ],
+    "05/Feb/2024":  [
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P3_KthSmallestAndLargestElementInBst\\Revision1\\A3_Optimal_KthSmallestAndLargestElementInBst.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P12_InsertBeforeGivenNodeInDll\\Revision1\\A1_Brute_InsertBeforeGivenNodeInDll.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P2_PrintShortestPath\\Revision1\\A3_Optimal_PrintShortestPath.java",
+                        "all_syllabus\\Level6\\C7_LinkedList\\P1_DeleteAllOccurrencesOfAKeyInDll\\Revision1\\A2_Better_DeleteAllOccurrencesOfAKeyInDll.java"
+                    ],
+    "04/Feb/2024":  [
+                        "all_syllabus\\Level1\\C10_SlidingWindowAnd2Pointer\\P1_Theory\\Revision1\\A2_Better_Theory.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S5_StlAndCollections\\P2_JavaCollections\\Revision1\\A1_Brute_JavaCollections.java"
+                    ],
+    "03/Feb/2024":  [
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P5_MaximumPathSum\\Revision1\\A1_Brute_MaximumPathSum.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P5_RottenOranges\\Revision1\\A2_Better_RottenOranges.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P2_BinarySubarraysWithSum\\Revision1\\A2_Better_BinarySubarraysWithSum.java"
+                    ],
+    "02/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P6_InputOutput\\Revision1\\A1_Brute_InputOutput.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P4_MaximumXorWithAnElementFromAnArray\\Revision1\\A2_Better_MaximumXorWithAnElementFromAnArray.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P5_LongestRepeatingCharacterReplacement\\Revision1\\A2_Better_LongestRepeatingCharacterReplacement.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P3_ConstructABtFromPostorderAndInorder\\Revision1\\A2_Better_ConstructABtFromPostorderAndInorder.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P7_SudokoSolver\\Revision1\\A2_Better_SudokoSolver.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P1_MstTheory\\Revision1\\A3_Optimal_MstTheory.java"
+                    ],
+    "01/Feb/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P8_SortCharactersByFrequency\\Revision1\\A1_Brute_SortCharactersByFrequency.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P11_PrintXNNumbersOfTimes\\Revision1\\A1_Brute_PrintXNNumbersOfTimes.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P12_InsertionBeforeTheValueXInLl\\Revision1\\A2_Better_InsertionBeforeTheValueXInLl.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P3_SortALlOf0S1SAnd2S\\Revision1\\A2_Better_SortALlOf0S1SAnd2S.java"
+                    ],
+    "30/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P7_Pattern7\\Revision1\\A3_Optimal_Pattern7.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P11_GcdOfTwoNumbers\\Revision1\\A2_Better_GcdOfTwoNumbers.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P1_SelectionSort\\Revision1\\A1_Brute_SelectionSort.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P1_GridUniquePaths\\Revision1\\A1_Brute_GridUniquePaths.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P9_WildcardMatching\\Revision1\\A1_Brute_WildcardMatching.java"
+                    ],
+    "29/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P3_SumOfFirstNNumbers\\Revision1\\A2_Better_SumOfFirstNNumbers.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P12_PrintLastCharacterOfString\\Revision1\\A2_Better_PrintLastCharacterOfString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P6_Pattern6\\Revision1\\A2_Better_Pattern6.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P5_ReversePairs\\Revision1\\A3_Optimal_ReversePairs.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P2_PartitionEqualSubsetSum\\Revision1\\A1_Brute_PartitionEqualSubsetSum.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P2_PartitionEqualSubsetSum\\Revision1\\A3_Optimal_PartitionEqualSubsetSum.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P2_MinimumCostToCutTheStick\\Revision1\\A2_Better_MinimumCostToCutTheStick.java"
+                    ],
+    "28/Jan/2024":  [
+                        "all_syllabus\\Level2\\C17_Tries\\P4_MaximumXorWithAnElementFromAnArray\\Revision1\\A1_Brute_MaximumXorWithAnElementFromAnArray.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P6_FindMinimumInRotatedSortedArray\\Revision1\\A2_Better_FindMinimumInRotatedSortedArray.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P2_CourseScheduleI\\Revision1\\A1_Brute_CourseScheduleI.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P8_WordLadderIi\\Revision1\\A2_Better_WordLadderIi.java"
+                    ],
+    "27/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P11_SumOfDigitsInAGivenNumber\\Revision1\\A2_Better_SumOfDigitsInAGivenNumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P6_Pattern6\\Revision1\\A1_Brute_Pattern6.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P8_Pattern8\\Revision1\\A3_Optimal_Pattern8.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P5_CombinationSumIii\\Revision1\\A1_Brute_CombinationSumIii.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P6_MostStonesRemovedWithSameRowOrColumn\\Revision1\\A3_Optimal_MostStonesRemovedWithSameRowOrColumn.java"
+                    ],
+    "26/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P2_RecursionConceptsWithParameters\\Revision1\\A1_Brute_RecursionConceptsWithParameters.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P4_DiameterOfBinaryTree\\Revision1\\A1_Brute_DiameterOfBinaryTree.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P4_NonOverlappingIntervals\\Revision1\\A3_Optimal_NonOverlappingIntervals.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P3_FruitIntoBaskets\\Revision1\\A3_Optimal_FruitIntoBaskets.java"
+                    ],
+    "25/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P1_RecursionTheory\\Revision1\\A3_Optimal_RecursionTheory.java"
+                    ],
+    "24/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P10_Pattern10\\Revision1\\A2_Better_Pattern10.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P10_CountOfPrimeNumbersTillN\\Revision1\\A2_Better_CountOfPrimeNumbersTillN.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P3_AsteroidCollision\\Revision1\\A3_Optimal_AsteroidCollision.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P7_DeleteKthElementOfDll\\Revision1\\A2_Better_DeleteKthElementOfDll.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P2_TwoSumInBst\\Revision1\\A2_Better_TwoSumInBst.java"
+                    ],
+    "23/Jan/2024":  [
+                        "all_syllabus\\Level2\\C15_Graphs\\P2_NumberOfIslands\\Revision1\\A2_Better_NumberOfIslands.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P2_ZFunction\\Revision1\\A3_Optimal_ZFunction.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P1_ImplementMinStack\\Revision1\\A3_Optimal_ImplementMinStack.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P3_TrappingRainwater\\Revision1\\A2_Better_TrappingRainwater.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P9_MaximumWidthOfBt\\Revision1\\A1_Brute_MaximumWidthOfBt.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P5_CountPartitionsWithGivenDifference\\Revision1\\A3_Optimal_CountPartitionsWithGivenDifference.java"
+                    ],
+    "22/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P4_Pattern4\\Revision1\\A2_Better_Pattern4.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P5_Pattern5\\Revision1\\A1_Brute_Pattern5.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P1_ShortestJobFirst\\Revision1\\A3_Optimal_ShortestJobFirst.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P11_RodCuttingProblem\\Revision1\\A2_Better_RodCuttingProblem.java"
+                    ],
+    "21/Jan/2024":  [
+                        "all_syllabus\\Level1\\C18_StringsAdvancedAlgo\\P1_ReverseEveryWordInAString\\Revision1\\A2_Better_ReverseEveryWordInAString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P15_Pattern15\\Revision1\\A2_Better_Pattern15.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P12_LcmOfTwoNumbers\\Revision1\\A3_Optimal_LcmOfTwoNumbers.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P11_InsertionAtTheKthPositionOfLl\\Revision1\\A3_Optimal_InsertionAtTheKthPositionOfLl.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P11_RodCuttingProblem\\Revision1\\A1_Brute_RodCuttingProblem.java"
+                    ],
+    "20/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P8_IfElseif\\Revision1\\A1_Brute_IfElseif.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P4_MaximumConsecutiveOnes\\Revision1\\A2_Better_MaximumConsecutiveOnes.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P5_MaximumPathSum\\Revision1\\A3_Optimal_MaximumPathSum.java",
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P2_JobSequencingProblem\\Revision1\\A2_Better_JobSequencingProblem.java"
+                    ],
+    "19/Jan/2024":  [
+                        "all_syllabus\\Level2\\C7_LinkedList\\P9_InsertNodeBeforeHeadInDll\\Revision1\\A3_Optimal_InsertNodeBeforeHeadInDll.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P3_MergeSortedLists\\Revision1\\A1_Brute_MergeSortedLists.java"
+                    ],
+    "18/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P22_Pattern22\\Revision1\\A3_Optimal_Pattern22.java"
+                    ],
+    "17/Jan/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P4_PostorderTraversal\\Revision1\\A2_Better_PostorderTraversal.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P4_DiameterOfBinaryTree\\Revision1\\A3_Optimal_DiameterOfBinaryTree.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P7_InorderSuccessorAndPredecessorInBst\\Revision1\\A1_Brute_InorderSuccessorAndPredecessorInBst.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P1_DijkstraSAlgorithm\\Revision1\\A1_Brute_DijkstraSAlgorithm.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P2_NumberOfOperationsToMakeNetworkConnected\\Revision1\\A1_Brute_NumberOfOperationsToMakeNetworkConnected.java"
+                    ],
+    "16/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P3_BasicHashing\\Revision1\\A1_Brute_BasicHashing.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P13_DivisorsOfANumber\\Revision1\\A3_Optimal_DivisorsOfANumber.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P4_CheckIfATreeIsABstOrNot\\Revision1\\A2_Better_CheckIfATreeIsABstOrNot.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P4_LargestRectangleInAHistogram\\Revision1\\A2_Better_LargestRectangleInAHistogram.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P4_KokoEatingBananas\\Revision1\\A2_Better_KokoEatingBananas.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P4_AlientDictionary\\Revision1\\A1_Brute_AlientDictionary.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P3_FindPeakElement\\Revision1\\A2_Better_FindPeakElement.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P1_LongestCommonSubsequence\\Revision1\\A2_Better_LongestCommonSubsequence.java"
+                    ],
+    "15/Jan/2024":  [
+                        "all_syllabus\\Level3\\C3_Arrays\\P4_PascalSTriangle\\Revision1\\A1_Brute_PascalSTriangle.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P4_BestTimeToBuyAndSellStockIv\\Revision1\\A1_Brute_BestTimeToBuyAndSellStockIv.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P3_SearchIn2dMatrixIi\\Revision1\\A2_Better_SearchIn2dMatrixIi.java"
+                    ],
+    "14/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P3_FactorialOfAGivenNumber\\Revision1\\A1_Brute_FactorialOfAGivenNumber.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P3_KthLargestElementInAStreamOfRunningIntegers\\Revision1\\A1_Brute_KthLargestElementInAStreamOfRunningIntegers.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P4_DetectACycleInADirectedGraph\\Revision1\\A3_Optimal_DetectACycleInADirectedGraph.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P6_TwoSum\\Revision1\\A2_Better_TwoSum.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P2_CombinationSumIi\\Revision1\\A1_Brute_CombinationSumIi.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P4_MinimumInsertionsToMakeStringPalindrome\\Revision1\\A3_Optimal_MinimumInsertionsToMakeStringPalindrome.java"
+                    ],
+    "12/Jan/2024":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P7_ImplementQueueUsingLinkedlist\\Revision1\\A2_Better_ImplementQueueUsingLinkedlist.java",
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P1_Introduction\\Revision1\\A2_Better_Introduction.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P2_CheckIfTwoTreesAreIdenticalOrNot\\Revision1\\A2_Better_CheckIfTwoTreesAreIdenticalOrNot.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P1_ZigZagOrSpiralTraversal\\Revision1\\A2_Better_ZigZagOrSpiralTraversal.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P4_RemoveNthNodeFromTheBackOfTheLl\\Revision1\\A2_Better_RemoveNthNodeFromTheBackOfTheLl.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P1_RequirementsNeededToConstructAUniqueBt\\Revision1\\A1_Brute_RequirementsNeededToConstructAUniqueBt.java"
+                    ],
+    "11/Jan/2024":  [
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P9_LfuCache\\Revision1\\A3_Optimal_LfuCache.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P1_FindRowWithMaximum1S\\Revision1\\A2_Better_FindRowWithMaximum1S.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P5_MatrixMedian\\Revision1\\A2_Better_MatrixMedian.java"
+                    ],
+    "10/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P16_Pattern16\\Revision1\\A1_Brute_Pattern16.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P4_FindPeakElement\\Revision1\\A2_Better_FindPeakElement.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P5_MinimumInsertionsOrDeletionsToConvertStringAToB\\Revision1\\A1_Brute_MinimumInsertionsOrDeletionsToConvertStringAToB.java"
+                    ],
+    "09/Jan/2024":  [
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P7_InorderSuccessorAndPredecessorInBst\\Revision1\\A3_Optimal_InorderSuccessorAndPredecessorInBst.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P10_KadaneSAlgorithm\\Revision1\\A2_Better_KadaneSAlgorithm.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P3_CourseScheduleIi\\Revision1\\A3_Optimal_CourseScheduleIi.java"
+                    ],
+    "08/Jan/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P6_PrePostInorderInOneTraversal\\Revision1\\A2_Better_PrePostInorderInOneTraversal.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P6_FindMinimumInRotatedSortedArray\\Revision1\\A1_Brute_FindMinimumInRotatedSortedArray.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P8_LcaInBt\\Revision1\\A1_Brute_LcaInBt.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P2_CheckIfLlIsPalindromeOrNot\\Revision1\\A2_Better_CheckIfLlIsPalindromeOrNot.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P3_AccountsMerge\\Revision1\\A1_Brute_AccountsMerge.java"
+                    ],
+    "07/Jan/2024":  [
+                        "all_syllabus\\Level3\\C3_Arrays\\P5_RotateMatrixBy90Degrees\\Revision1\\A2_Better_RotateMatrixBy90Degrees.java"
+                    ],
+    "06/Jan/2024":  [
+                        "all_syllabus\\Level1\\C6_Recursion\\P3_PowerSet\\Revision1\\A3_Optimal_PowerSet.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P8_LruCache\\Revision1\\A3_Optimal_LruCache.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P3_VerticalOrderTraversal\\Revision1\\A1_Brute_VerticalOrderTraversal.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P8_4Sum\\Revision1\\A3_Optimal_4Sum.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P4_AlientDictionary\\Revision1\\A2_Better_AlientDictionary.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P4_DetectALoopInLl\\Revision1\\A2_Better_DetectALoopInLl.java"
+                    ],
+    "05/Jan/2024":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P1_Introduction\\Revision1\\A3_Optimal_Introduction.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P4_SerializeAndDeSerializeBt\\Revision1\\A1_Brute_SerializeAndDeSerializeBt.java"
+                    ],
+    "04/Jan/2024":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P1_IntroductionToGraph\\Revision1\\A1_Brute_IntroductionToGraph.java"
+                    ],
+    "03/Jan/2024":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P3_ReverseAnArray\\Revision1\\A1_Brute_ReverseAnArray.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P5_MaximumPathSum\\Revision1\\A2_Better_MaximumPathSum.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P3_TrappingRainwater\\Revision1\\A1_Brute_TrappingRainwater.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P2_WordSearch\\Revision1\\A3_Optimal_WordSearch.java",
+                        "all_syllabus\\Level6\\C7_LinkedList\\P1_DeleteAllOccurrencesOfAKeyInDll\\Revision1\\A3_Optimal_DeleteAllOccurrencesOfAKeyInDll.java"
+                    ],
+    "02/Jan/2024":  [
+                        "all_syllabus\\Level7\\C15_Graphs\\P4_NumberOfIslandsIi\\Revision1\\A3_Optimal_NumberOfIslandsIi.java"
+                    ],
+    "01/Jan/2024":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P1_ImplementPqUsingHeaps\\Revision1\\A3_Optimal_ImplementPqUsingHeaps.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P2_SingleNumberI\\Revision1\\A1_Brute_SingleNumberI.java",
+                        "all_syllabus\\Level5\\C16_DynamicProgramming\\P5_BestTimeToBuyAndSellStockWithCooldownAndTransactionFees\\Revision1\\A2_Better_BestTimeToBuyAndSellStockWithCooldownAndTransactionFees.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P6_0And1Knapsack\\Revision1\\A3_Optimal_0And1Knapsack.java"
+                    ],
+    "31/Dec/2023":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P3_CountPrimesInRangeLToR\\Revision1\\A1_Brute_CountPrimesInRangeLToR.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P5_ReturnTheLargestDigitInANumber\\Revision1\\A2_Better_ReturnTheLargestDigitInANumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P3_SumOfHighestAndLowestFrequency\\Revision1\\A2_Better_SumOfHighestAndLowestFrequency.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P5_LeftRotateArrayByOne\\Revision1\\A1_Brute_LeftRotateArrayByOne.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P12_InsertionBeforeTheValueXInLl\\Revision1\\A1_Brute_InsertionBeforeTheValueXInLl.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P9_SortAnArrayOf0S1SAnd2S\\Revision1\\A1_Brute_SortAnArrayOf0S1SAnd2S.java"
+                    ],
+    "30/Dec/2023":  [
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P3_CheckForBalancedBinaryTree\\Revision1\\A1_Brute_CheckForBalancedBinaryTree.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P5_LongestHappyPrefix\\Revision1\\A2_Better_LongestHappyPrefix.java"
+                    ],
+    "29/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P2_Pattern2\\Revision1\\A3_Optimal_Pattern2.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P1_CountAllDigitsOfANumber\\Revision1\\A3_Optimal_CountAllDigitsOfANumber.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P3_DeletionInLinkedList\\Revision1\\A2_Better_DeletionInLinkedList.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P6_RemoveKDigits\\Revision1\\A3_Optimal_RemoveKDigits.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P8_NumberOfDistinctIslands\\Revision1\\A2_Better_NumberOfDistinctIslands.java",
+                        "all_syllabus\\Level4\\C6_Recursion\\P1_LetterCombinationsOfAPhoneNumber\\Revision1\\A1_Brute_LetterCombinationsOfAPhoneNumber.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P4_PalindromePartitioningIi\\Revision1\\A2_Better_PalindromePartitioningIi.java"
+                    ],
+    "28/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P17_Pattern17\\Revision1\\A2_Better_Pattern17.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P3_ReverseANumber\\Revision1\\A2_Better_ReverseANumber.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P7_NumberOfWaysToArriveAtDestination\\Revision1\\A2_Better_NumberOfWaysToArriveAtDestination.java"
+                    ],
+    "27/Dec/2023":  [
+                        "all_syllabus\\Level2\\C3_Arrays\\P1_MoveZerosToEnd\\Revision1\\A3_Optimal_MoveZerosToEnd.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P5_KthElementOf2SortedArrays\\Revision1\\A1_Brute_KthElementOf2SortedArrays.java"
+                    ],
+    "26/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P2_CountOfOddNumbersInArray\\Revision1\\A3_Optimal_CountOfOddNumbersInArray.java",
+                        "all_syllabus\\Level1\\C8_BitManipulation\\P1_IntroductionToBitsAndTricks\\Revision1\\A3_Optimal_IntroductionToBitsAndTricks.java"
+                    ],
+    "25/Dec/2023":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P3_ImplementQueueUsingArrays\\Revision1\\A2_Better_ImplementQueueUsingArrays.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P15_Pattern15\\Revision1\\A1_Brute_Pattern15.java",
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P2_LowerBound\\Revision1\\A3_Optimal_LowerBound.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P2_TwoSumInBst\\Revision1\\A3_Optimal_TwoSumInBst.java"
+                    ],
+    "23/Dec/2023":  [
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P5_InsertInterval\\Revision1\\A3_Optimal_InsertInterval.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P10_PrintAllNodesAtADistanceOfKInBt\\Revision1\\A2_Better_PrintAllNodesAtADistanceOfKInBt.java"
+                    ],
+    "22/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P7_CheckIfTheNumberIfArmstrong\\Revision1\\A3_Optimal_CheckIfTheNumberIfArmstrong.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P1_SumOfArrayElements\\Revision1\\A1_Brute_SumOfArrayElements.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P4_SumOfSubarrayMinimums\\Revision1\\A3_Optimal_SumOfSubarrayMinimums.java"
+                    ],
+    "21/Dec/2023":  [
+                        "all_syllabus\\Level2\\C7_LinkedList\\P6_DeleteTailOfDll\\Revision1\\A1_Brute_DeleteTailOfDll.java"
+                    ],
+    "20/Dec/2023":  [
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P4_CheckIfATreeIsABstOrNot\\Revision1\\A3_Optimal_CheckIfATreeIsABstOrNot.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P4_MaximumSumOfNonAdjacentElements\\Revision1\\A1_Brute_MaximumSumOfNonAdjacentElements.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P1_LongestSubstringWithoutRepeatingCharacters\\Revision1\\A1_Brute_LongestSubstringWithoutRepeatingCharacters.java"
+                    ],
+    "19/Dec/2023":  [
+                        "all_syllabus\\Level1\\C14_BinarySearchTrees\\P3_FloorAndCeilInABst\\Revision1\\A3_Optimal_FloorAndCeilInABst.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P4_SearchInRotatedSortedArrayI\\Revision1\\A3_Optimal_SearchInRotatedSortedArrayI.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P12_CountTotalNodesInACompleteBt\\Revision1\\A1_Brute_CountTotalNodesInACompleteBt.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P1_ZigZagOrSpiralTraversal\\Revision1\\A1_Brute_ZigZagOrSpiralTraversal.java"
+                    ],
+    "18/Dec/2023":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P2_CheckIfAnArrayRepresentsAMinHeap\\Revision1\\A2_Better_CheckIfAnArrayRepresentsAMinHeap.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P15_Pattern15\\Revision1\\A3_Optimal_Pattern15.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P3_CountSubarraysWithGivenSum\\Revision1\\A1_Brute_CountSubarraysWithGivenSum.java"
+                    ],
+    "17/Dec/2023":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P2_PrimeFactorisationOfANumber\\Revision1\\A2_Better_PrimeFactorisationOfANumber.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P2_LargestElement\\Revision1\\A2_Better_LargestElement.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P3_TopologicalSortOrKahnsAlgorithm\\Revision1\\A2_Better_TopologicalSortOrKahnsAlgorithm.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P3_ConstructABtFromPostorderAndInorder\\Revision1\\A1_Brute_ConstructABtFromPostorderAndInorder.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P3_NQueen\\Revision1\\A2_Better_NQueen.java"
+                    ],
+    "16/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P3_FactorialOfAGivenNumber\\Revision1\\A2_Better_FactorialOfAGivenNumber.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P6_ConstructABstFromAPreorderTraversal\\Revision1\\A1_Brute_ConstructABstFromAPreorderTraversal.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P4_MaximumSumOfNonAdjacentElements\\Revision1\\A2_Better_MaximumSumOfNonAdjacentElements.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P4_NumberOfIslandsIi\\Revision1\\A1_Brute_NumberOfIslandsIi.java"
+                    ],
+    "15/Dec/2023":  [
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P2_BookAllocationProblem\\Revision1\\A1_Brute_BookAllocationProblem.java"
+                    ],
+    "14/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P20_Pattern20\\Revision1\\A2_Better_Pattern20.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P1_FindEventualSafeStates\\Revision1\\A3_Optimal_FindEventualSafeStates.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P5_FindTheStartingPointInLl\\Revision1\\A2_Better_FindTheStartingPointInLl.java"
+                    ],
+    "13/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P1_SumOfArrayElements\\Revision1\\A2_Better_SumOfArrayElements.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P3_FindMissingNumber\\Revision1\\A1_Brute_FindMissingNumber.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P8_SingleElementInSortedArray\\Revision1\\A3_Optimal_SingleElementInSortedArray.java",
+                        "all_syllabus\\Level5\\C13_BinaryTrees\\P2_MorrisPreorderTraversal\\Revision1\\A2_Better_MorrisPreorderTraversal.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P2_RotateALl\\Revision1\\A2_Better_RotateALl.java"
+                    ],
+    "12/Dec/2023":  [
+                        "all_syllabus\\Level1\\C18_StringsAdvancedAlgo\\P1_ReverseEveryWordInAString\\Revision1\\A1_Brute_ReverseEveryWordInAString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P9_CheckForPrimeNumber\\Revision1\\A3_Optimal_CheckForPrimeNumber.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P2_RemoveDuplicatesFromSortedArray\\Revision1\\A1_Brute_RemoveDuplicatesFromSortedArray.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P3_SingleNumberIi\\Revision1\\A1_Brute_SingleNumberIi.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P2_ConstructABtFromPreorderAndInorder\\Revision1\\A3_Optimal_ConstructABtFromPreorderAndInorder.java"
+                    ],
+    "11/Dec/2023":  [
+                        "filemap.ps1",
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P2_ImplementStackUsingArrays\\Revision1\\A3_Optimal_ImplementStackUsingArrays.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P2_BubbleSort\\Revision1\\A1_Brute_BubbleSort.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P1_PalindromePartitioning\\Revision1\\A3_Optimal_PalindromePartitioning.java"
+                    ],
+    "09/Dec/2023":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P6_PrePostInorderInOneTraversal\\Revision1\\A1_Brute_PrePostInorderInOneTraversal.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P1_MinimumBitFlipsToConvertNumber\\Revision1\\A1_Brute_MinimumBitFlipsToConvertNumber.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P7_XorOfNumbersInAGivenRange\\Revision1\\A2_Better_XorOfNumbersInAGivenRange.java"
+                    ],
+    "08/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P13_Pattern13\\Revision1\\A3_Optimal_Pattern13.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P8_DeleteTheElementWithValueX\\Revision1\\A2_Better_DeleteTheElementWithValueX.java",
+                        "all_syllabus\\Level2\\C10_SlidingWindowAnd2Pointer\\P1_MaximumPointsYouCanObtainFromCards\\Revision1\\A2_Better_MaximumPointsYouCanObtainFromCards.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P4_LargestRectangleInAHistogram\\Revision1\\A3_Optimal_LargestRectangleInAHistogram.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P10_PrintAllNodesAtADistanceOfKInBt\\Revision1\\A1_Brute_PrintAllNodesAtADistanceOfKInBt.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P12_CountTotalNodesInACompleteBt\\Revision1\\A3_Optimal_CountTotalNodesInACompleteBt.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P2_SegregateOddAndEvenNodesInLl\\Revision1\\A3_Optimal_SegregateOddAndEvenNodesInLl.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P5_FindTheStartingPointInLl\\Revision1\\A3_Optimal_FindTheStartingPointInLl.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P1_MatrixChainMultiplication\\Revision1\\A1_Brute_MatrixChainMultiplication.java"
+                    ],
+    "07/Dec/2023":  [
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P1_MinimumBitFlipsToConvertNumber\\Revision1\\A3_Optimal_MinimumBitFlipsToConvertNumber.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P1_ImplementMinStack\\Revision1\\A1_Brute_ImplementMinStack.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P4_PascalSTriangle\\Revision1\\A3_Optimal_PascalSTriangle.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P10_UnboundedKnapsack\\Revision1\\A1_Brute_UnboundedKnapsack.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P5_CountPartitionsWithGivenDifference\\Revision1\\A1_Brute_CountPartitionsWithGivenDifference.java"
+                    ],
+    "06/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P5_ReturnTheLargestDigitInANumber\\Revision1\\A3_Optimal_ReturnTheLargestDigitInANumber.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P6_MedianOf2SortedArrays\\Revision1\\A3_Optimal_MedianOf2SortedArrays.java"
+                    ],
+    "05/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P11_PrintXNNumbersOfTimes\\Revision1\\A3_Optimal_PrintXNNumbersOfTimes.java"
+                    ],
+    "04/Dec/2023":  [
+                        "all_syllabus\\Level1\\C17_Tries\\P1_TrieImplementationAndOperations\\Revision1\\A3_Optimal_TrieImplementationAndOperations.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P1_ReverseAString\\Revision1\\A2_Better_ReverseAString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P9_SwitchCase\\Revision1\\A3_Optimal_SwitchCase.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P5_MinimumInsertionsOrDeletionsToConvertStringAToB\\Revision1\\A3_Optimal_MinimumInsertionsOrDeletionsToConvertStringAToB.java"
+                    ],
+    "03/Dec/2023":  [
+                        "all_syllabus\\Level1\\C6_Recursion\\P1_PowXN\\Revision1\\A3_Optimal_PowXN.java",
+                        "all_syllabus\\Level2\\C6_Recursion\\P2_CountAllSubsequencesWithSumK\\Revision1\\A3_Optimal_CountAllSubsequencesWithSumK.java",
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P1_ImplementMinStack\\Revision1\\A2_Better_ImplementMinStack.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P7_DeleteTheMiddleNodeInLl\\Revision1\\A1_Brute_DeleteTheMiddleNodeInLl.java"
+                    ],
+    "02/Dec/2023":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P5_ImplementQueueUsingStack\\Revision1\\A2_Better_ImplementQueueUsingStack.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P10_CountOfPrimeNumbersTillN\\Revision1\\A1_Brute_CountOfPrimeNumbersTillN.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P6_DeleteTailOfDll\\Revision1\\A2_Better_DeleteTailOfDll.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P5_BottomViewOfBt\\Revision1\\A3_Optimal_BottomViewOfBt.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P2_CheckIfLlIsPalindromeOrNot\\Revision1\\A1_Brute_CheckIfLlIsPalindromeOrNot.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P8_EditDistance\\Revision1\\A2_Better_EditDistance.java"
+                    ],
+    "01/Dec/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P1_CppSetup\\Revision1\\A3_Optimal_CppSetup.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P19_Pattern19\\Revision1\\A1_Brute_Pattern19.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P2_NumberOfIslands\\Revision1\\A3_Optimal_NumberOfIslands.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P5_LongestHappyPrefix\\Revision1\\A1_Brute_LongestHappyPrefix.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P3_CourseScheduleIi\\Revision1\\A2_Better_CourseScheduleIi.java"
+                    ],
+    "30/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P12_Pattern12\\Revision1\\A2_Better_Pattern12.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P3_FloodFillAlgorithm\\Revision1\\A3_Optimal_FloodFillAlgorithm.java",
+                        "all_syllabus\\Level2\\C3_Arrays\\P1_MoveZerosToEnd\\Revision1\\A2_Better_MoveZerosToEnd.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P12_CountTotalNodesInACompleteBt\\Revision1\\A2_Better_CountTotalNodesInACompleteBt.java"
+                    ],
+    "29/Nov/2023":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P6_ImplementStackUsingLinkedlist\\Revision1\\A3_Optimal_ImplementStackUsingLinkedlist.java",
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P2_LemonadeChange\\Revision1\\A1_Brute_LemonadeChange.java"
+                    ],
+    "28/Nov/2023":  [
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P7_PrintRootToNotePathInBt\\Revision1\\A2_Better_PrintRootToNotePathInBt.java"
+                    ],
+    "27/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P12_PrintLastCharacterOfString\\Revision1\\A3_Optimal_PrintLastCharacterOfString.java",
+                        "all_syllabus\\Level4\\C10_SlidingWindowAnd2Pointer\\P3_CountNumberOfNiceSubarrays\\Revision1\\A2_Better_CountNumberOfNiceSubarrays.java"
+                    ],
+    "26/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S9_BasicHashing\\P2_SecondHighestOccurringElement\\Revision1\\A1_Brute_SecondHighestOccurringElement.java",
+                        "all_syllabus\\Level4\\C7_LinkedList\\P7_DeleteTheMiddleNodeInLl\\Revision1\\A2_Better_DeleteTheMiddleNodeInLl.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P3_ShortestPathWithMinimumEffort\\Revision1\\A1_Brute_ShortestPathWithMinimumEffort.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P1_NumberOfProvinces\\Revision1\\A2_Better_NumberOfProvinces.java"
+                    ],
+    "25/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P1_ReverseAString\\Revision1\\A3_Optimal_ReverseAString.java",
+                        "all_syllabus\\Level2\\C13_BinaryTrees\\P3_CheckForBalancedBinaryTree\\Revision1\\A2_Better_CheckForBalancedBinaryTree.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P1_BstIterator\\Revision1\\A1_Brute_BstIterator.java"
+                    ],
+    "24/Nov/2023":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P3_InorderTraversal\\Revision1\\A1_Brute_InorderTraversal.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P1_ReverseLlInGroupOfGivenSizeK\\Revision1\\A3_Optimal_ReverseLlInGroupOfGivenSizeK.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P3_LongestPalindromicSubsequence\\Revision1\\A2_Better_LongestPalindromicSubsequence.java"
+                    ],
+    "23/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P1_BasicMaths\\Revision1\\A2_Better_BasicMaths.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P2_BasicArrays\\Revision1\\A3_Optimal_BasicArrays.java",
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P1_SearchXInSortedArray\\Revision1\\A3_Optimal_SearchXInSortedArray.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P1_ClimbingStairs\\Revision1\\A3_Optimal_ClimbingStairs.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P1_AggressiveCows\\Revision1\\A1_Brute_AggressiveCows.java"
+                    ],
+    "22/Nov/2023":  [
+                        "all_syllabus\\Level2\\C9_GreedyAlgorithms\\P3_NMeetingsInOneRoom\\Revision1\\A2_Better_NMeetingsInOneRoom.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P6_RightLeftViewOfBt\\Revision1\\A1_Brute_RightLeftViewOfBt.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P1_MatrixChainMultiplication\\Revision1\\A3_Optimal_MatrixChainMultiplication.java"
+                    ],
+    "21/Nov/2023":  [
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P4_SerializeAndDeSerializeBt\\Revision1\\A2_Better_SerializeAndDeSerializeBt.java"
+                    ],
+    "20/Nov/2023":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P8_DeleteTheElementWithValueX\\Revision1\\A3_Optimal_DeleteTheElementWithValueX.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P10_InsertNodeBeforeTailInDll\\Revision1\\A1_Brute_InsertNodeBeforeTailInDll.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P4_SingleNumberIii\\Revision1\\A1_Brute_SingleNumberIii.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P4_SingleNumberIii\\Revision1\\A2_Better_SingleNumberIii.java",
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P5_DivideTwoNumbersWithoutMultiplicationAndDivision\\Revision1\\A1_Brute_DivideTwoNumbersWithoutMultiplicationAndDivision.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P8_BellmanFordAlgorithm\\Revision1\\A1_Brute_BellmanFordAlgorithm.java"
+                    ],
+    "19/Nov/2023":  [
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P4_KokoEatingBananas\\Revision1\\A3_Optimal_KokoEatingBananas.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P3_FindPeakElement\\Revision1\\A1_Brute_FindPeakElement.java"
+                    ],
+    "18/Nov/2023":  [
+                        "all_syllabus\\Level2\\C7_LinkedList\\P5_DeleteHeadOfDll\\Revision1\\A1_Brute_DeleteHeadOfDll.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P5_MakingALargeIsland\\Revision1\\A1_Brute_MakingALargeIsland.java",
+                        "all_syllabus\\Level8\\C16_DynamicProgramming\\P4_PalindromePartitioningIi\\Revision1\\A1_Brute_PalindromePartitioningIi.java"
+                    ],
+    "17/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P5_JavaOopsBasic\\Revision1\\A1_Brute_JavaOopsBasic.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P2_DeleteANodeInBst\\Revision1\\A3_Optimal_DeleteANodeInBst.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P5_LcaInBst\\Revision1\\A3_Optimal_LcaInBst.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P8_BellmanFordAlgorithm\\Revision1\\A3_Optimal_BellmanFordAlgorithm.java"
+                    ],
+    "15/Nov/2023":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P8_BalancedParanthesis\\Revision1\\A3_Optimal_BalancedParanthesis.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P14_Pattern14\\Revision1\\A3_Optimal_Pattern14.java",
+                        "all_syllabus\\Level5\\C13_BinaryTrees\\P1_MorrisInorderTraversal\\Revision1\\A1_Brute_MorrisInorderTraversal.java"
+                    ],
+    "14/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P2_CountNumberOfOddDigitsInANumber\\Revision1\\A1_Brute_CountNumberOfOddDigitsInANumber.java",
+                        "all_syllabus\\Level2\\C11_StackAndQueues\\P4_SumOfSubarrayMinimums\\Revision1\\A1_Brute_SumOfSubarrayMinimums.java",
+                        "all_syllabus\\Level2\\C18_StringsAdvancedAlgo\\P4_ShortestPalindrome\\Revision1\\A3_Optimal_ShortestPalindrome.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P4_RemoveNthNodeFromTheBackOfTheLl\\Revision1\\A1_Brute_RemoveNthNodeFromTheBackOfTheLl.java"
+                    ],
+    "13/Nov/2023":  [
+                        "all_syllabus\\Level1\\C7_LinkedList\\P2_TraversalInLinkedList\\Revision1\\A2_Better_TraversalInLinkedList.java",
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P1_ZigZagOrSpiralTraversal\\Revision1\\A3_Optimal_ZigZagOrSpiralTraversal.java"
+                    ],
+    "12/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P10_CheckIfTheArrayIsSorted\\Revision1\\A2_Better_CheckIfTheArrayIsSorted.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P3_FruitIntoBaskets\\Revision1\\A1_Brute_FruitIntoBaskets.java"
+                    ],
+    "11/Nov/2023":  [
+                        "all_syllabus\\Level1\\C5_BinarySearch\\P2_LowerBound\\Revision1\\A1_Brute_LowerBound.java",
+                        "all_syllabus\\Level1\\C6_Recursion\\P3_PowerSet\\Revision1\\A1_Brute_PowerSet.java"
+                    ],
+    "10/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P1_Pattern1\\Revision1\\A3_Optimal_Pattern1.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P2_Pattern2\\Revision1\\A2_Better_Pattern2.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P3_FindTheMstWeight\\Revision1\\A3_Optimal_FindTheMstWeight.java"
+                    ],
+    "09/Nov/2023":  [
+                        "all_syllabus\\Level3\\C11_StackAndQueues\\P6_StockSpanProblem\\Revision1\\A2_Better_StockSpanProblem.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P4_LargestBstInBinaryTree\\Revision1\\A3_Optimal_LargestBstInBinaryTree.java",
+                        "all_syllabus\\Level5\\C13_BinaryTrees\\P1_MorrisInorderTraversal\\Revision1\\A2_Better_MorrisInorderTraversal.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P7_MinimumCoins\\Revision1\\A1_Brute_MinimumCoins.java"
+                    ],
+    "08/Nov/2023":  [
+                        "all_syllabus\\Level2\\C3_Arrays\\P2_RemoveDuplicatesFromSortedArray\\Revision1\\A3_Optimal_RemoveDuplicatesFromSortedArray.java",
+                        "all_syllabus\\Level2\\C5_BinarySearch\\P3_FirstAndLastOccurrence\\Revision1\\A2_Better_FirstAndLastOccurrence.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P1_BstIterator\\Revision1\\A3_Optimal_BstIterator.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P3_TopologicalSortOrKahnsAlgorithm\\Revision1\\A1_Brute_TopologicalSortOrKahnsAlgorithm.java"
+                    ],
+    "07/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P11_PrintXNNumbersOfTimes\\Revision1\\A2_Better_PrintXNNumbersOfTimes.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P6_TwoSum\\Revision1\\A3_Optimal_TwoSum.java"
+                    ],
+    "06/Nov/2023":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P2_ConnectedComponents\\Revision1\\A2_Better_ConnectedComponents.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P2_PalindromeCheck\\Revision1\\A1_Brute_PalindromeCheck.java"
+                    ],
+    "05/Nov/2023":  [
+                        "all_syllabus\\Level1\\C11_StackAndQueues\\P4_ImplementStackUsingQueue\\Revision1\\A2_Better_ImplementStackUsingQueue.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P2_RecursionConceptsWithParameters\\Revision1\\A3_Optimal_RecursionConceptsWithParameters.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S4_TimeComplexity\\P1_TheoryWithExamples\\Revision1\\A3_Optimal_TheoryWithExamples.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P9_CheckForPrimeNumber\\Revision1\\A2_Better_CheckForPrimeNumber.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P6_0And1Knapsack\\Revision1\\A1_Brute_0And1Knapsack.java"
+                    ],
+    "04/Nov/2023":  [
+                        "all_syllabus\\Level3\\C13_BinaryTrees\\P2_BoundaryTraversal\\Revision1\\A3_Optimal_BoundaryTraversal.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P4_CountInversions\\Revision1\\A2_Better_CountInversions.java",
+                        "all_syllabus\\Level5\\C5_BinarySearch\\P3_SearchIn2dMatrixIi\\Revision1\\A1_Brute_SearchIn2dMatrixIi.java"
+                    ],
+    "03/Nov/2023":  [
+                        "all_syllabus\\Level1\\C13_BinaryTrees\\P5_LevelOrderTraversal\\Revision1\\A1_Brute_LevelOrderTraversal.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P3_DeletionInLinkedList\\Revision1\\A1_Brute_DeletionInLinkedList.java",
+                        "all_syllabus\\Level5\\C13_BinaryTrees\\P2_MorrisPreorderTraversal\\Revision1\\A3_Optimal_MorrisPreorderTraversal.java"
+                    ],
+    "02/Nov/2023":  [
+                        "all_syllabus\\Level2\\C3_Arrays\\P6_IntersectionOfTwoSortedArrays\\Revision1\\A2_Better_IntersectionOfTwoSortedArrays.java",
+                        "all_syllabus\\Level2\\C7_LinkedList\\P3_InsertionInDll\\Revision1\\A1_Brute_InsertionInDll.java",
+                        "all_syllabus\\Level3\\C15_Graphs\\P2_BipartiteGraph\\Revision1\\A2_Better_BipartiteGraph.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P6_TwoSum\\Revision1\\A1_Brute_TwoSum.java"
+                    ],
+    "01/Nov/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P9_Pattern9\\Revision1\\A3_Optimal_Pattern9.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P2_FrogJump\\Revision1\\A2_Better_FrogJump.java"
+                    ],
+    "31/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P2_PalindromeCheck\\Revision1\\A2_Better_PalindromeCheck.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P10_SumOfFirstLastElementInArray\\Revision1\\A3_Optimal_SumOfFirstLastElementInArray.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P8_CheckForPerfectNumber\\Revision1\\A1_Brute_CheckForPerfectNumber.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P1_LongestWordWithAllPrefixes\\Revision1\\A3_Optimal_LongestWordWithAllPrefixes.java",
+                        "all_syllabus\\Level2\\C17_Tries\\P3_MaximumXorOfTwoNumbersInAnArray\\Revision1\\A2_Better_MaximumXorOfTwoNumbersInAnArray.java",
+                        "all_syllabus\\Level3\\C7_LinkedList\\P5_ReverseALl\\Revision1\\A2_Better_ReverseALl.java"
+                    ],
+    "30/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P2_CppBasics\\Revision1\\A2_Better_CppBasics.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P6_MinimumWindowSubstring\\Revision1\\A3_Optimal_MinimumWindowSubstring.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P3_FindTheRepeatingAndMissingNumber\\Revision1\\A3_Optimal_FindTheRepeatingAndMissingNumber.java"
+                    ],
+    "28/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S10_BasicStrings\\P6_RotateString\\Revision1\\A2_Better_RotateString.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P1_LinearSearch\\Revision1\\A2_Better_LinearSearch.java",
+                        "all_syllabus\\Level1\\C4_Hashing\\P3_CountSubarraysWithGivenSum\\Revision1\\A3_Optimal_CountSubarraysWithGivenSum.java"
+                    ],
+    "27/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S1_LanguageBasics\\P7_IfElseAdultTeenProblem\\Revision1\\A3_Optimal_IfElseAdultTeenProblem.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P3_Pattern3\\Revision1\\A2_Better_Pattern3.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P4_BasicString\\Revision1\\A2_Better_BasicString.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P8_CheckForPerfectNumber\\Revision1\\A2_Better_CheckForPerfectNumber.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P3_FindTheSmallestDivisor\\Revision1\\A1_Brute_FindTheSmallestDivisor.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P6_MColoringProblem\\Revision1\\A1_Brute_MColoringProblem.java"
+                    ],
+    "26/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S7_BasicMaths\\P4_PalindromeNumber\\Revision1\\A2_Better_PalindromeNumber.java",
+                        "all_syllabus\\Level1\\C3_Arrays\\P2_LargestElement\\Revision1\\A3_Optimal_LargestElement.java"
+                    ],
+    "25/Oct/2023":  [
+                        "all_syllabus\\Level1\\C15_Graphs\\P3_TraversalTechniques\\Revision1\\A3_Optimal_TraversalTechniques.java",
+                        "all_syllabus\\Level1\\C16_DynamicProgramming\\P1_IntroductionToDp\\Revision1\\A1_Brute_IntroductionToDp.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P4_Triangle\\Revision1\\A1_Brute_Triangle.java"
+                    ],
+    "24/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P8_CheckIfANumberIsPrimeOrNot\\Revision1\\A1_Brute_CheckIfANumberIsPrimeOrNot.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P2_BasicArrays\\Revision1\\A1_Brute_BasicArrays.java",
+                        "all_syllabus\\Level2\\C16_DynamicProgramming\\P5_HouseRobber\\Revision1\\A1_Brute_HouseRobber.java",
+                        "all_syllabus\\Level4\\C16_DynamicProgramming\\P5_CherryPickupIi\\Revision1\\A3_Optimal_CherryPickupIi.java",
+                        "all_syllabus\\Level6\\C16_DynamicProgramming\\P8_TargetSum\\Revision1\\A2_Better_TargetSum.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P1_NumberOfProvinces\\Revision1\\A1_Brute_NumberOfProvinces.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P6_ShortestCommonSupersequence\\Revision1\\A2_Better_ShortestCommonSupersequence.java"
+                    ],
+    "23/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P14_Pattern14\\Revision1\\A1_Brute_Pattern14.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P9_InsertionAtTheHeadOfLl\\Revision1\\A3_Optimal_InsertionAtTheHeadOfLl.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P6_ShortestPathInUndirectedGraphWithUnitWeights\\Revision1\\A2_Better_ShortestPathInUndirectedGraphWithUnitWeights.java"
+                    ],
+    "22/Oct/2023":  [
+                        "all_syllabus\\Level3\\C7_LinkedList\\P3_SortALlOf0S1SAnd2S\\Revision1\\A3_Optimal_SortALlOf0S1SAnd2S.java"
+                    ],
+    "21/Oct/2023":  [
+                        "all_syllabus\\Level2\\C12_Heaps\\P5_MaximumSumCombination\\Revision1\\A2_Better_MaximumSumCombination.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P1_LongestSubstringWithoutRepeatingCharacters\\Revision1\\A3_Optimal_LongestSubstringWithoutRepeatingCharacters.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P5_ShortestPathInDag\\Revision1\\A3_Optimal_ShortestPathInDag.java"
+                    ],
+    "20/Oct/2023":  [
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P5_MinimiseMaxDistanceToGasStations\\Revision1\\A3_Optimal_MinimiseMaxDistanceToGasStations.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P3_NQueen\\Revision1\\A3_Optimal_NQueen.java",
+                        "all_syllabus\\Level7\\C15_Graphs\\P1_NumberOfProvinces\\Revision1\\A3_Optimal_NumberOfProvinces.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P1_KosarajuSAlgorithm\\Revision1\\A1_Brute_KosarajuSAlgorithm.java"
+                    ],
+    "19/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P3_ReverseAnArray\\Revision1\\A2_Better_ReverseAnArray.java",
+                        "all_syllabus\\Level2\\C14_BinarySearchTrees\\P1_InsertAGivenNodeInBst\\Revision1\\A1_Brute_InsertAGivenNodeInBst.java",
+                        "all_syllabus\\Level3\\C14_BinarySearchTrees\\P1_BstIterator\\Revision1\\A2_Better_BstIterator.java",
+                        "all_syllabus\\Level6\\C15_Graphs\\P2_DisjointSet\\Revision1\\A2_Better_DisjointSet.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P4_MinimumInsertionsToMakeStringPalindrome\\Revision1\\A2_Better_MinimumInsertionsToMakeStringPalindrome.java"
+                    ],
+    "18/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P11_SumOfDigitsInAGivenNumber\\Revision1\\A1_Brute_SumOfDigitsInAGivenNumber.java",
+                        "all_syllabus\\Level1\\C2_Sorting\\P2_BubbleSort\\Revision1\\A2_Better_BubbleSort.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P3_ShortestPathWithMinimumEffort\\Revision1\\A2_Better_ShortestPathWithMinimumEffort.java"
+                    ],
+    "17/Oct/2023":  [
+                        "all_syllabus\\Level1\\C12_Heaps\\P4_KThLargestElementInAnArray\\Revision1\\A2_Better_KThLargestElementInAnArray.java",
+                        "all_syllabus\\Level1\\C17_Tries\\P2_TrieImplementationAndAdvancedOperations\\Revision1\\A1_Brute_TrieImplementationAndAdvancedOperations.java",
+                        "all_syllabus\\Level1\\C9_GreedyAlgorithms\\P3_JumpGameI\\Revision1\\A1_Brute_JumpGameI.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P2_MaxConsecutiveOnesIii\\Revision1\\A2_Better_MaxConsecutiveOnesIii.java",
+                        "all_syllabus\\Level3\\C3_Arrays\\P1_LeadersInAnArray\\Revision1\\A1_Brute_LeadersInAnArray.java",
+                        "all_syllabus\\Level4\\C15_Graphs\\P4_AlientDictionary\\Revision1\\A3_Optimal_AlientDictionary.java",
+                        "all_syllabus\\Level4\\C3_Arrays\\P1_MajorityElementI\\Revision1\\A1_Brute_MajorityElementI.java",
+                        "all_syllabus\\Level5\\C7_LinkedList\\P5_SortLl\\Revision1\\A2_Better_SortLl.java"
+                    ],
+    "16/Oct/2023":  [
+                        "all_syllabus\\Level1\\C19_Maths\\P3_CountPrimesInRangeLToR\\Revision1\\A2_Better_CountPrimesInRangeLToR.java",
+                        "all_syllabus\\Level1\\C7_LinkedList\\P2_TraversalInLinkedList\\Revision1\\A1_Brute_TraversalInLinkedList.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P2_ConstructABtFromPreorderAndInorder\\Revision1\\A1_Brute_ConstructABtFromPreorderAndInorder.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P2_BridgesInGraph\\Revision1\\A2_Better_BridgesInGraph.java"
+                    ],
+    "15/Oct/2023":  [
+                        "all_syllabus\\Level2\\C12_Heaps\\P1_MergeKSortedLists\\Revision1\\A3_Optimal_MergeKSortedLists.java",
+                        "all_syllabus\\Level3\\C10_SlidingWindowAnd2Pointer\\P4_LongestSubstringWithAtMostKDistinctCharacters\\Revision1\\A1_Brute_LongestSubstringWithAtMostKDistinctCharacters.java"
+                    ],
+    "14/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S3_Patterns\\P21_Pattern21\\Revision1\\A3_Optimal_Pattern21.java",
+                        "all_syllabus\\Level2\\C12_Heaps\\P3_KthLargestElementInAStreamOfRunningIntegers\\Revision1\\A2_Better_KthLargestElementInAStreamOfRunningIntegers.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P1_LongestCommonSubsequence\\Revision1\\A1_Brute_LongestCommonSubsequence.java"
+                    ],
+    "13/Oct/2023":  [
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S11_BasicRecursion\\P12_FibonacciNumber\\Revision1\\A1_Brute_FibonacciNumber.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S6_ConceptBasics\\P3_BasicHashing\\Revision1\\A3_Optimal_BasicHashing.java",
+                        "all_syllabus\\Level1\\C1_BeginnerProblems\\S8_BasicArrays\\P2_CountOfOddNumbersInArray\\Revision1\\A1_Brute_CountOfOddNumbersInArray.java",
+                        "all_syllabus\\Level2\\C15_Graphs\\P7_SurroundedRegions\\Revision1\\A1_Brute_SurroundedRegions.java",
+                        "all_syllabus\\Level3\\C5_BinarySearch\\P2_FindNthRootOfANumber\\Revision1\\A2_Better_FindNthRootOfANumber.java",
+                        "all_syllabus\\Level4\\C5_BinarySearch\\P123_SplitArrayLargestSum\\Revision1\\A3_Optimal_SplitArrayLargestSum.java",
+                        "all_syllabus\\Level7\\C16_DynamicProgramming\\P7_DistinctSubsequences\\Revision1\\A3_Optimal_DistinctSubsequences.java"
+                    ],
+    "12/Oct/2023":  [
+                        "all_syllabus\\Level2\\C8_BitManipulation\\P6_PowerSetDup\\Revision1\\A2_Better_PowerSetDup.java",
+                        "all_syllabus\\Level3\\C6_Recursion\\P1_CombinationSum\\Revision1\\A1_Brute_CombinationSum.java"
+                    ],
+    "11/Oct/2023":  [
+                        "all_syllabus\\Level1\\C4_Hashing\\P4_CountSubarraysWithGivenXorK\\Revision1\\A3_Optimal_CountSubarraysWithGivenXorK.java",
+                        "all_syllabus\\Level4\\C13_BinaryTrees\\P3_ConstructABtFromPostorderAndInorder\\Revision1\\A3_Optimal_ConstructABtFromPostorderAndInorder.java",
+                        "all_syllabus\\Level5\\C15_Graphs\\P5_CheapestFlightWithinKStops\\Revision1\\A3_Optimal_CheapestFlightWithinKStops.java",
+                        "all_syllabus\\Level5\\C6_Recursion\\P4_RatInAMaze\\Revision1\\A3_Optimal_RatInAMaze.java",
+                        "all_syllabus\\Level8\\C15_Graphs\\P2_BridgesInGraph\\Revision1\\A1_Brute_BridgesInGraph.java"
+                    ]
+}

@@ -1,0 +1,1490 @@
+{
+    "all_syllabus": [
+        {
+            "category_id": "extras",
+            "category_name": "Beginner Problems",
+            "category_rank": 1,
+            "category_slug": "beginner-problems",
+            "subcategories": [
+                {
+                    "subcategory_id": "fundamentals_basics",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "language-basics",
+                    "subcategory_name": "Language Basics",
+                    "subcategory_rank": 1,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "extras_fundamentals_basics_cppsetup",
+                            "category_id": "extras",
+                            "problem_slug": "cpp-setup",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Cpp Setup",
+                            "problem_rank": 1,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "fundamentals_fundamentals_basics_cpporjava",
+                            "category_id": "extras",
+                            "problem_slug": "cpp-basics",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Cpp Basics",
+                            "problem_rank": 2,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_javasetup",
+                            "category_id": "extras",
+                            "problem_slug": "java-setup",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Java Setup",
+                            "problem_rank": 3,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "fundamentals_fundamentals_basics_java",
+                            "category_id": "extras",
+                            "problem_slug": "java-basics",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Java Basics",
+                            "problem_rank": 4,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_javaoopsbasic",
+                            "category_id": "extras",
+                            "problem_slug": "java-oops-basic",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Java OOPs Basic",
+                            "problem_rank": 5,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_inputoutput",
+                            "category_id": "extras",
+                            "problem_slug": "input-output",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Input Output",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_ifelseadultteenproblem",
+                            "category_id": "extras",
+                            "problem_slug": "if-else-adult-teen-problem",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "If Else Adult Teen Problem",
+                            "problem_rank": 7,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_ifelseif",
+                            "category_id": "extras",
+                            "problem_slug": "if-elseif",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "If ElseIf",
+                            "problem_rank": 8,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_switchcase",
+                            "category_id": "extras",
+                            "problem_slug": "switch-case",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Switch Case",
+                            "problem_rank": 9,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_sumoffirstlastelementinarray",
+                            "category_id": "extras",
+                            "problem_slug": "sum-of-first-last-element-in-array",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Sum of first last element in array",
+                            "problem_rank": 10,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_printxnnumbersoftimes",
+                            "category_id": "extras",
+                            "problem_slug": "print-x-n-numbers-of-times",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Print X N numbers of times",
+                            "problem_rank": 11,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_basics_printlastcharacterofstring",
+                            "category_id": "extras",
+                            "problem_slug": "print-last-character-of-string",
+                            "subcategory_slug": "language-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_basics",
+                            "problem_name": "Print last character of string",
+                            "problem_rank": 12,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "fundamentals_logicbuilding(patterns)",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "logic-building-patterns",
+                    "subcategory_name": "Logic Building (Patterns)",
+                    "subcategory_rank": 2,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "fundamentals_fundamentals_logicbuilding(patterns)_logicbuildingwithpatterns",
+                            "category_id": "extras",
+                            "problem_slug": "easy-and-medium",
+                            "subcategory_slug": "logic-building-patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_logicbuilding(patterns)",
+                            "problem_name": "Easy and Medium",
+                            "problem_rank": 1,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_logicbuilding(patterns)_pattern2",
+                            "category_id": "extras",
+                            "problem_slug": "hard",
+                            "subcategory_slug": "logic-building-patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_logicbuilding(patterns)",
+                            "problem_name": "Hard",
+                            "problem_rank": 2,
+                            "hasIDE": 0
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "extras_patterns",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "patterns",
+                    "subcategory_name": "Patterns",
+                    "subcategory_rank": 3,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "extras_extras_patterns_pattern1",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-1",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 1",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern2",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-2",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 2",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern3",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-3",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 3",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern4",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-4",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 4",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern5",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-5",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 5",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern6",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-6",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 6",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern7",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-7",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 7",
+                            "problem_rank": 7,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern8",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-8",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 8",
+                            "problem_rank": 8,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern9",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-9",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 9",
+                            "problem_rank": 9,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern10",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-10",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 10",
+                            "problem_rank": 10,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern11",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-11",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 11",
+                            "problem_rank": 11,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern12",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-12",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 12",
+                            "problem_rank": 12,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern13",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-13",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 13",
+                            "problem_rank": 13,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern14",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-14",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 14",
+                            "problem_rank": 14,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern15",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-15",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 15",
+                            "problem_rank": 15,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern16",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-16",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 16",
+                            "problem_rank": 16,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern17",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-17",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 17",
+                            "problem_rank": 17,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern18",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-18",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 18",
+                            "problem_rank": 18,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern19",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-19",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 19",
+                            "problem_rank": 19,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern20",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-20",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 20",
+                            "problem_rank": 20,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern21",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-21",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 21",
+                            "problem_rank": 21,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_patterns_pattern22",
+                            "category_id": "extras",
+                            "problem_slug": "pattern-22",
+                            "subcategory_slug": "patterns",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_patterns",
+                            "problem_name": "Pattern 22",
+                            "problem_rank": 22,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "fundamentals_timecomplexity",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "time-complexity",
+                    "subcategory_name": "Time Complexity",
+                    "subcategory_rank": 4,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "fundamentals_fundamentals_timecomplexity_theorywithexamples",
+                            "category_id": "extras",
+                            "problem_slug": "theory-with-examples",
+                            "subcategory_slug": "time-complexity",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_timecomplexity",
+                            "problem_name": "Theory with examples",
+                            "problem_rank": 1,
+                            "hasIDE": 0
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "fundamentals_stlandcollections",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "stl-and-collections",
+                    "subcategory_name": "STL and Collections",
+                    "subcategory_rank": 5,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "fundamentals_fundamentals_stlandcollections_stl",
+                            "category_id": "extras",
+                            "problem_slug": "stl",
+                            "subcategory_slug": "stl-and-collections",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_stlandcollections",
+                            "problem_name": "STL",
+                            "problem_rank": 1,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "fundamentals_fundamentals_stlandcollections_javacollections",
+                            "category_id": "extras",
+                            "problem_slug": "java-collections",
+                            "subcategory_slug": "stl-and-collections",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_stlandcollections",
+                            "problem_name": "Java Collections",
+                            "problem_rank": 2,
+                            "hasIDE": 0
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "fundamentals_conceptbasics",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "concept-basics",
+                    "subcategory_name": "Concept Basics",
+                    "subcategory_rank": 6,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "fundamentals_fundamentals_conceptbasics_basicmaths",
+                            "category_id": "extras",
+                            "problem_slug": "basic-maths",
+                            "subcategory_slug": "concept-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_conceptbasics",
+                            "problem_name": "Basic Maths",
+                            "problem_rank": 1,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "fundamentals_fundamentals_conceptbasics_basichashing",
+                            "category_id": "extras",
+                            "problem_slug": "basic-arrays",
+                            "subcategory_slug": "concept-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_conceptbasics",
+                            "problem_name": "Basic Arrays",
+                            "problem_rank": 2,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_conceptbasics_basichashing",
+                            "category_id": "extras",
+                            "problem_slug": "basic-hashing",
+                            "subcategory_slug": "concept-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_conceptbasics",
+                            "problem_name": "Basic Hashing",
+                            "problem_rank": 3,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_fundamentals_conceptbasics_basicstring",
+                            "category_id": "extras",
+                            "problem_slug": "basic-string",
+                            "subcategory_slug": "concept-basics",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "fundamentals_conceptbasics",
+                            "problem_name": "Basic String",
+                            "problem_rank": 4,
+                            "hasIDE": 0
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "extras_basicmaths",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "basic-maths",
+                    "subcategory_name": "Basic Maths",
+                    "subcategory_rank": 7,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "extras_extras_basicmaths_countalldigitsofanumber",
+                            "category_id": "extras",
+                            "problem_slug": "count-all-digits-of-a-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Count all digits of a number",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_countnumberofodddigitsinanumber",
+                            "category_id": "extras",
+                            "problem_slug": "count-number-of-odd-digits-in-a-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Count number of odd digits in a number",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_reverseanumber",
+                            "category_id": "extras",
+                            "problem_slug": "reverse-a-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Reverse a number",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_palindromenumber",
+                            "category_id": "extras",
+                            "problem_slug": "palindrome-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Palindrome number",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_returnthelargestdigitinanumber",
+                            "category_id": "extras",
+                            "problem_slug": "return-the-largest-digit-in-a-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Return the largest digit in a number",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_factorialofagivennumber",
+                            "category_id": "extras",
+                            "problem_slug": "factorial-of-a-given-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Factorial of a given number",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_checkifthenumberifarmstrong",
+                            "category_id": "extras",
+                            "problem_slug": "check-if-the-number-if-armstrong",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Check if the number is armstrong",
+                            "problem_rank": 7,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_checkforperfectnumber",
+                            "category_id": "extras",
+                            "problem_slug": "check-for-perfect-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Check for perfect number",
+                            "problem_rank": 8,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_checkforprimenumber",
+                            "category_id": "extras",
+                            "problem_slug": "check-for-prime-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Check for prime number",
+                            "problem_rank": 9,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_countofprimenumberstilln",
+                            "category_id": "extras",
+                            "problem_slug": "count-of-prime-numbers-till-n",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Count of prime numbers till N",
+                            "problem_rank": 10,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_gcdoftwonumbers",
+                            "category_id": "extras",
+                            "problem_slug": "gcd-of-two-numbers",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "GCD of two numbers",
+                            "problem_rank": 11,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_lcmoftwonumbers",
+                            "category_id": "extras",
+                            "problem_slug": "lcm-of-two-numbers",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "LCM of two numbers",
+                            "problem_rank": 12,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicmaths_divisorsofanumber",
+                            "category_id": "extras",
+                            "problem_slug": "divisors-of-a-number",
+                            "subcategory_slug": "basic-maths",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicmaths",
+                            "problem_name": "Divisors of a number",
+                            "problem_rank": 13,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "extras_basicarrays",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "basic-arrays",
+                    "subcategory_name": "Basic Arrays",
+                    "subcategory_rank": 8,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "extras_extras_basicarrays_sumofarrayelements",
+                            "category_id": "extras",
+                            "problem_slug": "sum-of-array-elements",
+                            "subcategory_slug": "basic-arrays",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicarrays",
+                            "problem_name": "Sum of array elements",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicarrays_countofoddnumbersinarray",
+                            "category_id": "extras",
+                            "problem_slug": "count-of-odd-numbers-in-array",
+                            "subcategory_slug": "basic-arrays",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicarrays",
+                            "problem_name": "Count of odd numbers in array",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicarrays_reverseanarray",
+                            "category_id": "extras",
+                            "problem_slug": "reverse-an-array",
+                            "subcategory_slug": "basic-arrays",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicarrays",
+                            "problem_name": "Reverse an array",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicarrays_checkifthearrayissorted",
+                            "category_id": "extras",
+                            "problem_slug": "check-if-the-array-is-sorted",
+                            "subcategory_slug": "basic-arrays",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicarrays",
+                            "problem_name": "Check if the array is sorted",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "extras_basichashing",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "basic-hashing",
+                    "subcategory_name": "Basic Hashing",
+                    "subcategory_rank": 9,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "extras_extras_basichashing_highestoccurringelementinanarray",
+                            "category_id": "extras",
+                            "problem_slug": "highest-occurring-element-in-an-array",
+                            "subcategory_slug": "basic-hashing",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basichashing",
+                            "problem_name": "Highest occurring element in an array",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basichashing_secondhighestoccurringelement",
+                            "category_id": "extras",
+                            "problem_slug": "second-highest-occurring-element",
+                            "subcategory_slug": "basic-hashing",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basichashing",
+                            "problem_name": "Second highest occurring element",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basichashing_sumofhighestandlowestfrequency",
+                            "category_id": "extras",
+                            "problem_slug": "sum-of-highest-and-lowest-frequency",
+                            "subcategory_slug": "basic-hashing",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basichashing",
+                            "problem_name": "Sum of highest and lowest frequency",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "extras_basicstrings",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "basic-strings",
+                    "subcategory_name": "Basic Strings",
+                    "subcategory_rank": 10,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "extras_extras_basicstrings_reverseastring",
+                            "category_id": "extras",
+                            "problem_slug": "reverse-a-string",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Reverse a string",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicstrings_palindromecheck",
+                            "category_id": "extras",
+                            "problem_slug": "palindrome-check",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Palindrome Check",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicstrings_largestoddnumberinastring",
+                            "category_id": "extras",
+                            "problem_slug": "largest-odd-number-in-a-string",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Largest odd number in a string",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicstrings_longestcommonprefix",
+                            "category_id": "extras",
+                            "problem_slug": "longest-common-prefix",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Longest common prefix",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicstrings_isomorphicstring",
+                            "category_id": "extras",
+                            "problem_slug": "isomorphic-string",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Isomorphic string",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicstrings_rotatestring",
+                            "category_id": "extras",
+                            "problem_slug": "rotate-string",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Rotate string",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicstrings_validanagram",
+                            "category_id": "extras",
+                            "problem_slug": "valid-anagram",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Valid Anagram",
+                            "problem_rank": 7,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicstrings_sortcharactersbyfrequency",
+                            "category_id": "extras",
+                            "problem_slug": "sort-characters-by-frequency",
+                            "subcategory_slug": "basic-strings",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicstrings",
+                            "problem_name": "Sort characters by frequency",
+                            "problem_rank": 8,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "extras_basicrecursion",
+                    "category_name": "Beginner Problems",
+                    "category_id": "extras",
+                    "subcategory_slug": "basic-recursion",
+                    "subcategory_name": "Basic Recursion",
+                    "subcategory_rank": 11,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "extras_extras_basicrecursion_recursiontheory",
+                            "category_id": "extras",
+                            "problem_slug": "recursion-theory",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Recursion Theory",
+                            "problem_rank": 1,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_recursionconceptswithparameters",
+                            "category_id": "extras",
+                            "problem_slug": "recursion-concepts-with-parameters",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Recursion Concepts with Parameters",
+                            "problem_rank": 2,
+                            "hasIDE": 0
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_factorialofagivennumber",
+                            "category_id": "extras",
+                            "problem_slug": "factorial-of-a-given-number",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Factorial of a given number",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_sumoffirstnnumbers",
+                            "category_id": "extras",
+                            "problem_slug": "sum-of-first-n-numbers",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Sum of first N numbers",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_sumofarrayelements",
+                            "category_id": "extras",
+                            "problem_slug": "sum-of-array-elements",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Sum of array elements",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_reverseastring",
+                            "category_id": "extras",
+                            "problem_slug": "reverse-a-string",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Reverse a string",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_checkifstringispalindromeornot",
+                            "category_id": "extras",
+                            "problem_slug": "check-if-string-is-palindrome-or-not-",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Check if string is palindrome or not ",
+                            "problem_rank": 7,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_checkifanumberisprimeornot",
+                            "category_id": "extras",
+                            "problem_slug": "check-if-a-number-is-prime-or-not",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Check if a number is prime or not",
+                            "problem_rank": 8,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_reverseanarray",
+                            "category_id": "extras",
+                            "problem_slug": "reverse-an-array",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Reverse an array",
+                            "problem_rank": 9,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_checkifthearrayissorted",
+                            "category_id": "extras",
+                            "problem_slug": "check-if-the-array-is-sorted",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Check if the array is sorted",
+                            "problem_rank": 10,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_sumofdigitsinagivennumber",
+                            "category_id": "extras",
+                            "problem_slug": "sum-of-digits-in-a-given-number",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Sum of digits in a given number",
+                            "problem_rank": 11,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "extras_extras_basicrecursion_fibonaccinumber",
+                            "category_id": "extras",
+                            "problem_slug": "fibonacci-number",
+                            "subcategory_slug": "basic-recursion",
+                            "category_slug": "beginner-problems",
+                            "subcategory_id": "extras_basicrecursion",
+                            "problem_name": "Fibonacci Number",
+                            "problem_rank": 12,
+                            "hasIDE": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": "sorting",
+            "category_name": "Sorting ",
+            "category_rank": 2,
+            "category_slug": "sorting",
+            "subcategories": [
+                {
+                    "subcategory_id": "sorting_algorithms",
+                    "category_name": "Sorting ",
+                    "category_id": "sorting",
+                    "subcategory_slug": "algorithms",
+                    "subcategory_name": "Algorithms",
+                    "subcategory_rank": 1,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "sorting_sorting_algorithms_selectionsort",
+                            "category_id": "sorting",
+                            "problem_slug": "selection-sort",
+                            "subcategory_slug": "algorithms",
+                            "category_slug": "sorting",
+                            "subcategory_id": "sorting_algorithms",
+                            "problem_name": "Selection Sort",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "sorting_sorting_algorithms_bubblesort",
+                            "category_id": "sorting",
+                            "problem_slug": "bubble-sort",
+                            "subcategory_slug": "algorithms",
+                            "category_slug": "sorting",
+                            "subcategory_id": "sorting_algorithms",
+                            "problem_name": "Bubble Sort",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "sorting_sorting_algorithms_insertionsorting",
+                            "category_id": "sorting",
+                            "problem_slug": "insertion-sorting",
+                            "subcategory_slug": "algorithms",
+                            "category_slug": "sorting",
+                            "subcategory_id": "sorting_algorithms",
+                            "problem_name": "Insertion Sorting",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "sorting_sorting_algorithms_mergesorting",
+                            "category_id": "sorting",
+                            "problem_slug": "merge-sorting",
+                            "subcategory_slug": "algorithms",
+                            "category_slug": "sorting",
+                            "subcategory_id": "sorting_algorithms",
+                            "problem_name": "Merge Sorting",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "sorting_sorting_algorithms_quicksorting",
+                            "category_id": "sorting",
+                            "problem_slug": "quick-sorting",
+                            "subcategory_slug": "algorithms",
+                            "category_slug": "sorting",
+                            "subcategory_id": "sorting_algorithms",
+                            "problem_name": "Quick Sorting",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": "arrays",
+            "category_name": "Arrays",
+            "category_rank": 3,
+            "category_slug": "arrays",
+            "subcategories": [
+                {
+                    "subcategory_id": "arrays_fundamentals",
+                    "category_name": "Arrays",
+                    "category_id": "arrays",
+                    "subcategory_slug": "fundamentals",
+                    "subcategory_name": "Fundamentals",
+                    "subcategory_rank": 1,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "arrays_arrays_fundamentals_linearsearch",
+                            "category_id": "arrays",
+                            "problem_slug": "linear-search",
+                            "subcategory_slug": "fundamentals",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_fundamentals",
+                            "problem_name": "Linear Search",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_fundamentals_largestelement",
+                            "category_id": "arrays",
+                            "problem_slug": "largest-element",
+                            "subcategory_slug": "fundamentals",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_fundamentals",
+                            "problem_name": "Largest Element ",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_fundamentals_secondlargestelement",
+                            "category_id": "arrays",
+                            "problem_slug": "second-largest-element",
+                            "subcategory_slug": "fundamentals",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_fundamentals",
+                            "problem_name": "Second Largest Element",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_fundamentals_maximumconsecutiveones",
+                            "category_id": "arrays",
+                            "problem_slug": "maximum-consecutive-ones",
+                            "subcategory_slug": "fundamentals",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_fundamentals",
+                            "problem_name": "Maximum Consecutive Ones",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_fundamentals_leftrotatearraybyone",
+                            "category_id": "arrays",
+                            "problem_slug": "left-rotate-array-by-one",
+                            "subcategory_slug": "fundamentals",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_fundamentals",
+                            "problem_name": "Left Rotate Array by One",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_fundamentals_leftrotatearray",
+                            "category_id": "arrays",
+                            "problem_slug": "left-rotate-array",
+                            "subcategory_slug": "fundamentals",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_fundamentals",
+                            "problem_name": "Left Rotate Array by K Places",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "arrays_logicbuilding",
+                    "category_name": "Arrays",
+                    "category_id": "arrays",
+                    "subcategory_slug": "logic-building",
+                    "subcategory_name": "Logic Building",
+                    "subcategory_rank": 2,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "arrays_arrays_logicbuilding_movezerostoend",
+                            "category_id": "arrays",
+                            "problem_slug": "move-zeros-to-end",
+                            "subcategory_slug": "logic-building",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_logicbuilding",
+                            "problem_name": "Move Zeros to End",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_logicbuilding_removeduplicatesfromsortedarray",
+                            "category_id": "arrays",
+                            "problem_slug": "remove-duplicates-from-sorted-array",
+                            "subcategory_slug": "logic-building",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_logicbuilding",
+                            "problem_name": "Remove duplicates from sorted array",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_logicbuilding_findmissingnumber",
+                            "category_id": "arrays",
+                            "problem_slug": "find-missing-number",
+                            "subcategory_slug": "logic-building",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_logicbuilding",
+                            "problem_name": "Find missing number",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_logicbuilding_unionoftwosortedarrays",
+                            "category_id": "arrays",
+                            "problem_slug": "union-of-two-sorted-arrays",
+                            "subcategory_slug": "logic-building",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_logicbuilding",
+                            "problem_name": "Union of two sorted arrays",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_logicbuilding_intersectionoftwosortedarrays",
+                            "category_id": "arrays",
+                            "problem_slug": "intersection-of-two-sorted-arrays",
+                            "subcategory_slug": "logic-building",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_logicbuilding",
+                            "problem_name": "Intersection of two sorted arrays",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "arrays_faqs(medium)",
+                    "category_name": "Arrays",
+                    "category_id": "arrays",
+                    "subcategory_slug": "faqs-medium",
+                    "subcategory_name": "FAQs(Medium)",
+                    "subcategory_rank": 3,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_leadersinanarray",
+                            "category_id": "arrays",
+                            "problem_slug": "leaders-in-an-array",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Leaders in an Array",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_printthematrixinspiralmanner",
+                            "category_id": "arrays",
+                            "problem_slug": "print-the-matrix-in-spiral-manner",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Print the matrix in spiral manner",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_rearrangearrayelementsbysign",
+                            "category_id": "arrays",
+                            "problem_slug": "rearrange-array-elements-by-sign",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Rearrange array elements by sign",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_pascal'striangle",
+                            "category_id": "arrays",
+                            "problem_slug": "pascal's-triangle",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Pascal's Triangle",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_rotatematrixby90degrees",
+                            "category_id": "arrays",
+                            "problem_slug": "rotate-matrix-by-90-degrees",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Rotate matrix by 90 degrees",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_twosum",
+                            "category_id": "arrays",
+                            "problem_slug": "two-sum",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Two Sum",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_3sum",
+                            "category_id": "arrays",
+                            "problem_slug": "3-sum",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "3 Sum",
+                            "problem_rank": 7,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_4sum",
+                            "category_id": "arrays",
+                            "problem_slug": "4-sum",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "4 Sum",
+                            "problem_rank": 8,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_sortanarrayof0's1'sand2's",
+                            "category_id": "arrays",
+                            "problem_slug": "sort-an-array-of-0's-1's-and-2's",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Sort an array of 0's 1's and 2's",
+                            "problem_rank": 9,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(medium)_kadane'salgorithm",
+                            "category_id": "arrays",
+                            "problem_slug": "kadane's-algorithm",
+                            "subcategory_slug": "faqs-medium",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(medium)",
+                            "problem_name": "Kadane's Algorithm",
+                            "problem_rank": 10,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "arrays_faqs(hard)",
+                    "category_name": "Arrays",
+                    "category_id": "arrays",
+                    "subcategory_slug": "faqs-hard",
+                    "subcategory_name": "FAQs(Hard)",
+                    "subcategory_rank": 4,
+                    "subcategory_type": "study",
+                    "problems": [
+                        {
+                            "problem_id": "arrays_arrays_faqs(hard)_majorityelement-i",
+                            "category_id": "arrays",
+                            "problem_slug": "majority-element-i",
+                            "subcategory_slug": "faqs-hard",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(hard)",
+                            "problem_name": "Majority Element-I",
+                            "problem_rank": 1,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(hard)_majorityelement-ii",
+                            "category_id": "arrays",
+                            "problem_slug": "majority-element-ii",
+                            "subcategory_slug": "faqs-hard",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(hard)",
+                            "problem_name": "Majority Element-II",
+                            "problem_rank": 2,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(hard)_findtherepeatingandmissingnumber",
+                            "category_id": "arrays",
+                            "problem_slug": "find-the-repeating-and-missing-number",
+                            "subcategory_slug": "faqs-hard",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(hard)",
+                            "problem_name": "Find the repeating and missing number",
+                            "problem_rank": 3,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(hard)_countinversions",
+                            "category_id": "arrays",
+                            "problem_slug": "count-inversions",
+                            "subcategory_slug": "faqs-hard",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(hard)",
+                            "problem_name": "Count Inversions",
+                            "problem_rank": 4,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(hard)_reversepairs",
+                            "category_id": "arrays",
+                            "problem_slug": "reverse-pairs",
+                            "subcategory_slug": "faqs-hard",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(hard)",
+                            "problem_name": "Reverse Pairs",
+                            "problem_rank": 5,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(hard)_maximumproductsubarrayinanarray",
+                            "category_id": "arrays",
+                            "problem_slug": "maximum-product-subarray-in-an-array",
+                            "subcategory_slug": "faqs-hard",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(hard)",
+                            "problem_name": "Maximum Product Subarray in an Array",
+                            "problem_rank": 6,
+                            "hasIDE": 1
+                        },
+                        {
+                            "problem_id": "arrays_arrays_faqs(hard)_mergetwosortedarrayswithoutextraspace",
+                            "category_id": "arrays",
+                            "problem_slug": "merge-two-sorted-arrays-without-extra-space",
+                            "subcategory_slug": "faqs-hard",
+                            "category_slug": "arrays",
+                            "subcategory_id": "arrays_faqs(hard)",
+                            "problem_name": "Merge two sorted arrays without extra space",
+                            "problem_rank": 7,
+                            "hasIDE": 1
+                        }
+                    ]
+                },
+                {
+                    "subcategory_id": "arrays_contest",
+                    "category_name": "Arrays",
+                    "category_id": "arrays",
+                    "subcategory_slug": "contest",
+                    "subcategory_name": "Contest",
+                    "subcategory_rank": 5,
+                    "subcategory_type": "contest",
+                    "problems": []
+                }
+            ]
+        }
+    ]
+}
