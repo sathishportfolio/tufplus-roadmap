@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-login-dashboard": {
+    "tufplus-roadmap": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "HighmarkApps/AngularWorkspace/angular-login-dashboard/dist/angular-login-dashboard/",
+            "outputPath": "dist/tufplus-roadmap",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -63,10 +63,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "angular-login-dashboard:build:production"
+              "buildTarget": "tufplus-roadmap:build:production"
             },
             "development": {
-              "buildTarget": "angular-login-dashboard:build:development"
+              "buildTarget": "tufplus-roadmap:build:development"
             }
           },
           "defaultConfiguration": "development"
