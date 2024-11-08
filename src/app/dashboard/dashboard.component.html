@@ -1,0 +1,133 @@
+<div class="container mt-5">
+
+    <!-- <div class="row">
+        <div class="col-md-12">
+            <a class="float-end" [routerLink]="['/rounds']">Interview Round</a>
+        </div>
+    </div> -->
+
+    <!-- <button class="btn btn-danger" (click)="logout()">Logout</button> -->
+
+    <!-- <ngb-progressbar class="mb-3" type="success" [value]="getPercentage(getTotalProblems(),
+        getTotalCompletedProblems())" [striped]="true" [animated]="true"><i>{{getPercentage(getTotalProblems(),
+            getTotalCompletedProblems())}}%</i></ngb-progressbar> -->
+
+    <div class="row">
+        <div class="col-md-4">
+            <b style="color: orangered;">Total Progress ( {{ getTotalCompletedProblems() }} of {{ getTotalProblems()
+                }} - Remaining {{ getTotalProblems() -
+                getTotalCompletedProblems() }} )
+                : </b>
+        </div>
+        <div class="col-md-8" style="margin-top: 5px;">
+            <ngb-progressbar class="mb-3" type="success"
+                [value]="getPercentage(getTotalProblems(), getTotalCompletedProblems())" [striped]="true"
+                [animated]="true">
+                <i>{{getPercentage(getTotalProblems(), getTotalCompletedProblems())}}%</i>
+            </ngb-progressbar>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <select class="form-select" id="subcategoryFilter" [(ngModel)]="selectedSubcategoryIndex"
+            (change)="filterSubcategories()">
+            <option [ngValue]="null">All Levels</option>
+            <option *ngFor="let level of levels" [ngValue]="level - 1">
+                Level {{ level }}
+            </option>
+        </select>
+    </div>
+
+    <div *ngIf="filteredData.length > 0">
+        <ng-container *ngIf="selectedSubcategoryIndex !== null">
+            <div class="row">
+                <div class="col-md-4">
+                    <b style="color: orangered">Level {{ selectedSubcategoryIndex + 1 }} Progress ( {{
+                        getTotalCompletedProblemsAtLevel() }} of {{
+                        getTotalProblemsAtLevel() }} - Remaining {{ getTotalProblemsAtLevel() -
+                        getTotalCompletedProblemsAtLevel() }} ) : </b>
+                </div>
+                <div class="col-md-8" style="margin-top: 5px;">
+                    <ngb-progressbar class="mb-3" type="warning"
+                        [value]="getPercentage(getTotalProblemsAtLevel(), getTotalCompletedProblemsAtLevel())"
+                        [striped]="true" [animated]="true">
+                        <i>{{ getPercentage(getTotalProblemsAtLevel(), getTotalCompletedProblemsAtLevel()) }}%</i>
+                    </ngb-progressbar>
+                </div>
+            </div>
+        </ng-container>
+
+        <div class="accordion" id="categoryAccordion">
+            <div class="accordion-item" *ngFor="let category of filteredData; let i = index">
+                <h2 class="accordion-header" [id]="'categoryHeading' + i">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        [attr.data-bs-target]="'#categoryCollapse' + i" [attr.aria-expanded]="i === activeCategory"
+                        [attr.aria-controls]="'categoryCollapse' + i">
+                        <input type="checkbox" [(ngModel)]="category.selected" (change)="onCategoryChange(i)"
+                            class="me-2">
+                        {{ category.category_name }}
+                        ({{ getCompletedProblemsInCategory(category) }}/{{ getTotalProblemsInCategory(category) }})
+                    </button>
+                </h2>
+                <div [id]="'categoryCollapse' + i" class="accordion-collapse collapse"
+                    [class.show]="i === activeCategory" [attr.aria-labelledby]="'categoryHeading' + i"
+                    data-bs-parent="#categoryAccordion">
+                    <div class="accordion-body">
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <b>Progress : </b>
+                            </div>
+                            <div class="col-md-10" style="margin-top: 5px;">
+                                <ngb-progressbar class="mb-3" type="primary"
+                                    [value]="getPercentage(getTotalProblemsInCategory(category),getCompletedProblemsInCategory(category))"
+                                    [striped]="true" [animated]="true">
+                                    <i>{{getPercentage(getTotalProblemsInCategory(category),getCompletedProblemsInCategory(category))}}%</i>
+                                </ngb-progressbar>
+                            </div>
+                        </div>
+
+                        <div class="accordion" [id]="'subcategoryAccordion' + i">
+                            <div class="accordion-item"
+                                *ngFor="let subcategory of category.subcategories; let j = index">
+                                <h2 class="accordion-header" [id]="'subcategoryHeading' + i + '-' + j">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        [attr.data-bs-target]="'#subcategoryCollapse' + i + '-' + j"
+                                        [attr.aria-expanded]="j === activeSubCategory"
+                                        [attr.aria-controls]="'subcategoryCollapse' + i + '-' + j">
+                                        <input type="checkbox" [(ngModel)]="subcategory.selected"
+                                            (change)="onSubcategoryChange(i, j)" class="me-2">
+                                        {{ subcategory.subcategory_name }}
+                                        ({{ getCompletedProblemsInSubcategory(subcategory) }}/{{
+                                        subcategory.problems.length }})
+                                        <!-- ({{getPercentage(subcategory.problems.length,
+                                        getCompletedProblemsInSubcategory(subcategory))}} %) -->
+                                    </button>
+                                </h2>
+                                <div [id]="'subcategoryCollapse' + i + '-' + j" class="accordion-collapse collapse"
+                                    [class.show]="j === activeSubCategory"
+                                    [attr.aria-labelledby]="'subcategoryHeading' + i + '-' + j"
+                                    [attr.data-bs-parent]="'#subcategoryAccordion' + i">
+                                    <div class="accordion-body">
+                                        <ul class="list-group">
+                                            <li class="list-group-item"
+                                                *ngFor="let problem of subcategory.problems; let k = index">
+                                                <input class="form-check-input me-2" type="checkbox"
+                                                    [(ngModel)]="problem.selected" (change)="onProblemChange(i, j, k)">
+                                                <label class="form-check-label">
+                                                    <a target="_blank"
+                                                        href="https://takeuforward.org/plus/data-structures-and-algorithm/{{category.category_slug}}/{{subcategory.subcategory_slug}}/{{problem.problem_slug}}">{{
+                                                        problem.problem_name }}</a>
+                                                </label>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
